@@ -1,88 +1,44 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="socolive-319127-558264" tvg-name="25/08 09:00 | Lobos Plateados vs Fuerza Regia | HUNTER" tvg-logo="https://sta.vnres.co/file/common/20260823/5dcf2049c97ac7d7a72f38908f7dce24.png" group-title="Socolive",25/08 09:00 | Lobos Plateados vs Fuerza Regia | HUNTER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=c0b9c856e873993dea50818dc7f752c7&txTime=6a8d65fc
-
-#EXTINF:-1 tvg-id="socolive-319129-9912106" tvg-name="25/08 09:00 | Los Angeles Sparks W vs Atlanta Dream W | BRIAN" tvg-logo="https://sta.vnres.co/file/common/20260823/5e22eb9373c3c28c46eee2abc229de9e.png" group-title="Socolive",25/08 09:00 | Los Angeles Sparks W vs Atlanta Dream W | BRIAN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787633580-0-0-7b37a562b70f6a99a4d7024ea053fc58
-
-#EXTINF:-1 tvg-id="socolive-319129-9912115" tvg-name="25/08 09:00 | Los Angeles Sparks W vs Atlanta Dream W | CHAN SENA" tvg-logo="https://sta.vnres.co/file/common/20260823/5e22eb9373c3c28c46eee2abc229de9e.png" group-title="Socolive",25/08 09:00 | Los Angeles Sparks W vs Atlanta Dream W | CHAN SENA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787633580-0-0-608795142e48517c9d0f40eb43d8b479
-
-#EXTINF:-1 tvg-id="socolive-319128-356042" tvg-name="25/08 09:00 | Santos vs Dorados | A CHÈ" tvg-logo="https://sta.vnres.co/file/common/20260823/fdefbdad7a101c825364a3531b4a68ad.png" group-title="Socolive",25/08 09:00 | Santos vs Dorados | A CHÈ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=a59d220f1790eb3ddc35314648ed8370&txTime=6a8d65fc
-
-#EXTINF:-1 tvg-id="socolive-318996-9912091" tvg-name="25/08 09:00 | Tacoma Defiance vs Sporting Kansas City Reserves | BLV Củ Cải" tvg-logo="https://sta.vnres.co/file/common/20260822/efda4c90af2b13966f3c570312069868.png" group-title="Socolive",25/08 09:00 | Tacoma Defiance vs Sporting Kansas City Reserves | BLV Củ Cải
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787633580-0-0-dd4d7c40a604a7d8bac8c0479a13860f
-
-#EXTINF:-1 tvg-id="socolive-318996-527383" tvg-name="25/08 09:00 | Tacoma Defiance vs Sporting Kansas City Reserves | BLV ROBBEN" tvg-logo="https://sta.vnres.co/file/common/20260822/efda4c90af2b13966f3c570312069868.png" group-title="Socolive",25/08 09:00 | Tacoma Defiance vs Sporting Kansas City Reserves | BLV ROBBEN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1787633580-0-0-e61f84c58f90961ac2adece0b3339bf0
-
-#EXTINF:-1 tvg-id="socolive-318996-9912041" tvg-name="25/08 09:00 | Tacoma Defiance vs Sporting Kansas City Reserves | BLV TAP" tvg-logo="https://sta.vnres.co/file/common/20260822/efda4c90af2b13966f3c570312069868.png" group-title="Socolive",25/08 09:00 | Tacoma Defiance vs Sporting Kansas City Reserves | BLV TAP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=707d409ed6abb423563287dc9eb0b75e&txTime=6a8d65fc
-
-#EXTINF:-1 tvg-id="socolive-318996-9912110" tvg-name="25/08 09:00 | Tacoma Defiance vs Sporting Kansas City Reserves | BLV ZOWIE" tvg-logo="https://sta.vnres.co/file/common/20260822/efda4c90af2b13966f3c570312069868.png" group-title="Socolive",25/08 09:00 | Tacoma Defiance vs Sporting Kansas City Reserves | BLV ZOWIE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1787633580-0-0-c0c36ecc00e46fbbef0d0cf4fcc873f4
-
-#EXTINF:-1 tvg-id="socolive-318996-9912108" tvg-name="25/08 09:00 | Tacoma Defiance vs Sporting Kansas City Reserves | BÁ PHÚ" tvg-logo="https://sta.vnres.co/file/common/20260822/efda4c90af2b13966f3c570312069868.png" group-title="Socolive",25/08 09:00 | Tacoma Defiance vs Sporting Kansas City Reserves | BÁ PHÚ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1787633580-0-0-a4f90ac1dd5273a173a8db8644d60405
-
-#EXTINF:-1 tvg-id="socolive-318996-414317" tvg-name="25/08 09:00 | Tacoma Defiance vs Sporting Kansas City Reserves | THOMAS" tvg-logo="https://sta.vnres.co/file/common/20260822/efda4c90af2b13966f3c570312069868.png" group-title="Socolive",25/08 09:00 | Tacoma Defiance vs Sporting Kansas City Reserves | THOMAS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=2582ee167b46c98e27e02b2b826f2210&txTime=6a8d65fc
-
-#EXTINF:-1 tvg-id="socolive-319130-9912112" tvg-name="25/08 09:05 | Mineros vs Panteras | BLV HENRY" tvg-logo="https://sta.vnres.co/file/common/20260823/f3acc16a2c39f95f8f367087573b5d77.png" group-title="Socolive",25/08 09:05 | Mineros vs Panteras | BLV HENRY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1787633580-0-0-8aeb214f6bfd2c1592962b395a00ba41
-
 #EXTINF:-1 tvg-id="socolive-319131-356042" tvg-name="25/08 12:30 | Shanghai Baoshan vs Beijing Normal University | A CHÈ" tvg-logo="https://sta.vnres.co/file/common/20260823/9352c39fb9009d6fe2a186a5bca4b281.png" group-title="Socolive",25/08 12:30 | Shanghai Baoshan vs Beijing Normal University | A CHÈ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=a59d220f1790eb3ddc35314648ed8370&txTime=6a8d65fc
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=606fd57e73d8e6878e1db7a0d760f9a9&txTime=6a8d8168
 
 #EXTINF:-1 tvg-id="socolive-319131-9912112" tvg-name="25/08 12:30 | Shanghai Baoshan vs Beijing Normal University | BLV HENRY" tvg-logo="https://sta.vnres.co/file/common/20260823/9352c39fb9009d6fe2a186a5bca4b281.png" group-title="Socolive",25/08 12:30 | Shanghai Baoshan vs Beijing Normal University | BLV HENRY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1787633580-0-0-8aeb214f6bfd2c1592962b395a00ba41
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1787640600-0-0-3bf66b9328a4ded8cfcf4db7edece432
 
 #EXTINF:-1 tvg-id="socolive-319131-558264" tvg-name="25/08 12:30 | Shanghai Baoshan vs Beijing Normal University | HUNTER" tvg-logo="https://sta.vnres.co/file/common/20260823/9352c39fb9009d6fe2a186a5bca4b281.png" group-title="Socolive",25/08 12:30 | Shanghai Baoshan vs Beijing Normal University | HUNTER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=c0b9c856e873993dea50818dc7f752c7&txTime=6a8d65fc
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=4961667feb975068e3bf7f9df0004978&txTime=6a8d8168
 
 #EXTINF:-1 tvg-id="socolive-319131-9912099" tvg-name="25/08 12:30 | Shanghai Baoshan vs Beijing Normal University | KING" tvg-logo="https://sta.vnres.co/file/common/20260823/9352c39fb9009d6fe2a186a5bca4b281.png" group-title="Socolive",25/08 12:30 | Shanghai Baoshan vs Beijing Normal University | KING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787631326-0-0-4e14d04c9a8df4202e9cc3305e50d1ab
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787640600-0-0-92b44c256f72d822416ca0dd6cd37bcc
 
 #EXTINF:-1 tvg-id="socolive-319132-9912106" tvg-name="25/08 14:30 | Sichuan Jinqiang vs Beijing Ducks | BRIAN" tvg-logo="https://sta.vnres.co/file/common/20260823/c51ad8fab4c60404b005293ef3657ea4.png" group-title="Socolive",25/08 14:30 | Sichuan Jinqiang vs Beijing Ducks | BRIAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787633580-0-0-7b37a562b70f6a99a4d7024ea053fc58
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787635124-0-0-c89ecc3727760e218e42a98766b2ecd6
 
 #EXTINF:-1 tvg-id="socolive-319132-9912099" tvg-name="25/08 14:30 | Sichuan Jinqiang vs Beijing Ducks | KING" tvg-logo="https://sta.vnres.co/file/common/20260823/c51ad8fab4c60404b005293ef3657ea4.png" group-title="Socolive",25/08 14:30 | Sichuan Jinqiang vs Beijing Ducks | KING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787631326-0-0-4e14d04c9a8df4202e9cc3305e50d1ab
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787640600-0-0-92b44c256f72d822416ca0dd6cd37bcc
 
 #EXTINF:-1 tvg-id="socolive-319134-9912112" tvg-name="25/08 16:00 | lllawarra Hawks vs Sydney Kings | BLV HENRY" tvg-logo="https://sta.vnres.co/file/common/20260823/a66129358d841c9341923c57012a4886.png" group-title="Socolive",25/08 16:00 | lllawarra Hawks vs Sydney Kings | BLV HENRY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1787633580-0-0-8aeb214f6bfd2c1592962b395a00ba41
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1787640600-0-0-3bf66b9328a4ded8cfcf4db7edece432
 
 #EXTINF:-1 tvg-id="socolive-319134-558264" tvg-name="25/08 16:00 | lllawarra Hawks vs Sydney Kings | HUNTER" tvg-logo="https://sta.vnres.co/file/common/20260823/a66129358d841c9341923c57012a4886.png" group-title="Socolive",25/08 16:00 | lllawarra Hawks vs Sydney Kings | HUNTER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=c0b9c856e873993dea50818dc7f752c7&txTime=6a8d65fc
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=4961667feb975068e3bf7f9df0004978&txTime=6a8d8168
 
 #EXTINF:-1 tvg-id="socolive-319133-356042" tvg-name="25/08 16:00 | Manila Batang Quiapo vs Pasig City | A CHÈ" tvg-logo="https://sta.vnres.co/file/common/20260823/4c944df4e273fddbf85f29eb1368533f.png" group-title="Socolive",25/08 16:00 | Manila Batang Quiapo vs Pasig City | A CHÈ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=a59d220f1790eb3ddc35314648ed8370&txTime=6a8d65fc
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=606fd57e73d8e6878e1db7a0d760f9a9&txTime=6a8d8168
 
 #EXTINF:-1 tvg-id="socolive-319133-9912115" tvg-name="25/08 16:00 | Manila Batang Quiapo vs Pasig City | CHAN SENA" tvg-logo="https://sta.vnres.co/file/common/20260823/4c944df4e273fddbf85f29eb1368533f.png" group-title="Socolive",25/08 16:00 | Manila Batang Quiapo vs Pasig City | CHAN SENA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787633580-0-0-608795142e48517c9d0f40eb43d8b479
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787635066-0-0-ca5742e4c92f578ac6f74449f4ab65d2
 
 #EXTINF:-1 tvg-id="socolive-319137-622241" tvg-name="25/08 16:30 | Measures Club vs Mohammedan SC | BLV HEHE" tvg-logo="https://sta.vnres.co/file/common/20260823/ca093d3c8a31412c24025b974e494d19.png" group-title="Socolive",25/08 16:30 | Measures Club vs Mohammedan SC | BLV HEHE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -98,23 +54,23 @@ https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1787595874-0-0-b24c
 
 #EXTINF:-1 tvg-id="socolive-318997-9912091" tvg-name="25/08 16:30 | Queensland Lions SC vs North Sunshine Eagles | BLV Củ Cải" tvg-logo="https://sta.vnres.co/file/common/20260822/38d314b63cfb614ffaa74af51a0f56dc.png" group-title="Socolive",25/08 16:30 | Queensland Lions SC vs North Sunshine Eagles | BLV Củ Cải
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787633580-0-0-dd4d7c40a604a7d8bac8c0479a13860f
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787634008-0-0-a0eaf91497a2e97d566eb6d16f97b4c2
 
 #EXTINF:-1 tvg-id="socolive-318997-527383" tvg-name="25/08 16:30 | Queensland Lions SC vs North Sunshine Eagles | BLV ROBBEN" tvg-logo="https://sta.vnres.co/file/common/20260822/38d314b63cfb614ffaa74af51a0f56dc.png" group-title="Socolive",25/08 16:30 | Queensland Lions SC vs North Sunshine Eagles | BLV ROBBEN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1787633580-0-0-e61f84c58f90961ac2adece0b3339bf0
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1787633970-0-0-d5d18553eac24f8494baed4ccca2d62e
 
-#EXTINF:-1 tvg-id="socolive-318997-9912108" tvg-name="25/08 16:30 | Queensland Lions SC vs North Sunshine Eagles | BÁ PHÚ" tvg-logo="https://sta.vnres.co/file/common/20260822/38d314b63cfb614ffaa74af51a0f56dc.png" group-title="Socolive",25/08 16:30 | Queensland Lions SC vs North Sunshine Eagles | BÁ PHÚ
+#EXTINF:-1 tvg-id="socolive-318997-9912121" tvg-name="25/08 16:30 | Queensland Lions SC vs North Sunshine Eagles | BÁ PHÚ" tvg-logo="https://sta.vnres.co/file/common/20260822/38d314b63cfb614ffaa74af51a0f56dc.png" group-title="Socolive",25/08 16:30 | Queensland Lions SC vs North Sunshine Eagles | BÁ PHÚ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1787633580-0-0-a4f90ac1dd5273a173a8db8644d60405
+https://json.vnres.co/room/9912121/detail.json
 
-#EXTINF:-1 tvg-id="socolive-318997-9912122" tvg-name="25/08 16:30 | Queensland Lions SC vs North Sunshine Eagles | RICKHANTER" tvg-logo="https://sta.vnres.co/file/common/20260822/38d314b63cfb614ffaa74af51a0f56dc.png" group-title="Socolive",25/08 16:30 | Queensland Lions SC vs North Sunshine Eagles | RICKHANTER
+#EXTINF:-1 tvg-id="socolive-318997-619672" tvg-name="25/08 16:30 | Queensland Lions SC vs North Sunshine Eagles | T REX" tvg-logo="https://sta.vnres.co/file/common/20260822/38d314b63cfb614ffaa74af51a0f56dc.png" group-title="Socolive",25/08 16:30 | Queensland Lions SC vs North Sunshine Eagles | T REX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=3eabf5c3632966fd30d1bd1d0f57a0cc&txTime=6a8d0425
+https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=e3fd46bf998f4a67701bc8641a3109b4&txTime=6a8d43d6
 
 #EXTINF:-1 tvg-id="socolive-318997-414317" tvg-name="25/08 16:30 | Queensland Lions SC vs North Sunshine Eagles | THOMAS" tvg-logo="https://sta.vnres.co/file/common/20260822/38d314b63cfb614ffaa74af51a0f56dc.png" group-title="Socolive",25/08 16:30 | Queensland Lions SC vs North Sunshine Eagles | THOMAS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=2582ee167b46c98e27e02b2b826f2210&txTime=6a8d65fc
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=767761e63c77850662f9050c00be3bfe&txTime=6a8d695f
 
 #EXTINF:-1 tvg-id="socolive-319138-603255" tvg-name="25/08 16:30 | United SC Kolkata vs Police AC | BLV LION" tvg-logo="https://sta.vnres.co/file/common/20260823/e80527798ce2feb34ab4e31693e46857.png" group-title="Socolive",25/08 16:30 | United SC Kolkata vs Police AC | BLV LION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -134,11 +90,11 @@ https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=9addd6acfc6ee13e7ec9
 
 #EXTINF:-1 tvg-id="socolive-319135-9912106" tvg-name="25/08 17:00 | Jiangsu Nangang vs Hefei Culture and Tourism | BRIAN" tvg-logo="https://sta.vnres.co/file/common/20260823/6e5c731cfdcdb6eca44c1adfb187f4da.png" group-title="Socolive",25/08 17:00 | Jiangsu Nangang vs Hefei Culture and Tourism | BRIAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787633580-0-0-7b37a562b70f6a99a4d7024ea053fc58
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787635124-0-0-c89ecc3727760e218e42a98766b2ecd6
 
 #EXTINF:-1 tvg-id="socolive-319135-9912099" tvg-name="25/08 17:00 | Jiangsu Nangang vs Hefei Culture and Tourism | KING" tvg-logo="https://sta.vnres.co/file/common/20260823/6e5c731cfdcdb6eca44c1adfb187f4da.png" group-title="Socolive",25/08 17:00 | Jiangsu Nangang vs Hefei Culture and Tourism | KING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787631326-0-0-4e14d04c9a8df4202e9cc3305e50d1ab
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787640600-0-0-92b44c256f72d822416ca0dd6cd37bcc
 
 #EXTINF:-1 tvg-id="socolive-319001-494201" tvg-name="25/08 17:30 | FC Seoul vs Bucheon FC 1995 | BLV MESSI" tvg-logo="https://sta.vnres.co/file/common/20260822/b1c830e6b4172340b37323c11c8182b0.png" group-title="Socolive",25/08 17:30 | FC Seoul vs Bucheon FC 1995 | BLV MESSI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -146,11 +102,11 @@ https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1787607912-0-0-3d25
 
 #EXTINF:-1 tvg-id="socolive-319001-9912041" tvg-name="25/08 17:30 | FC Seoul vs Bucheon FC 1995 | BLV TAP" tvg-logo="https://sta.vnres.co/file/common/20260822/b1c830e6b4172340b37323c11c8182b0.png" group-title="Socolive",25/08 17:30 | FC Seoul vs Bucheon FC 1995 | BLV TAP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=707d409ed6abb423563287dc9eb0b75e&txTime=6a8d65fc
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=1aa544cd5616d6b534ec25ff86456e99&txTime=6a8d6735
 
 #EXTINF:-1 tvg-id="socolive-319001-9912110" tvg-name="25/08 17:30 | FC Seoul vs Bucheon FC 1995 | BLV ZOWIE" tvg-logo="https://sta.vnres.co/file/common/20260822/b1c830e6b4172340b37323c11c8182b0.png" group-title="Socolive",25/08 17:30 | FC Seoul vs Bucheon FC 1995 | BLV ZOWIE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1787633580-0-0-c0c36ecc00e46fbbef0d0cf4fcc873f4
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1787633934-0-0-c1d94705d8add197b15d371242f7d7f0
 
 #EXTINF:-1 tvg-id="socolive-319001-619561" tvg-name="25/08 17:30 | FC Seoul vs Bucheon FC 1995 | BÚN ĐẬU" tvg-logo="https://sta.vnres.co/file/common/20260822/b1c830e6b4172340b37323c11c8182b0.png" group-title="Socolive",25/08 17:30 | FC Seoul vs Bucheon FC 1995 | BÚN ĐẬU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -214,7 +170,7 @@ https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=d46868f93b209a1986b6
 
 #EXTINF:-1 tvg-id="socolive-319136-9912115" tvg-name="25/08 18:00 | Pasay Voyagers vs Quezon Huskers | CHAN SENA" tvg-logo="https://sta.vnres.co/file/common/20260823/b134e566921d459336a6ea2240e10dc1.png" group-title="Socolive",25/08 18:00 | Pasay Voyagers vs Quezon Huskers | CHAN SENA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787633580-0-0-608795142e48517c9d0f40eb43d8b479
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787635066-0-0-ca5742e4c92f578ac6f74449f4ab65d2
 
 #EXTINF:-1 tvg-id="socolive-319003-622241" tvg-name="25/08 21:00 | FK Andijon vs Xorazm Urganch | BLV HEHE" tvg-logo="https://sta.vnres.co/file/common/20260822/973a44903fead8a6b6372f6aff77e7ca.png" group-title="Socolive",25/08 21:00 | FK Andijon vs Xorazm Urganch | BLV HEHE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -431,30 +387,6 @@ https://cdn-global.ebaclofen.org/vsc/vsc-hiep-si-tan/index.m3u8
 #EXTINF:-1 tvg-name="25/08 23:45 | Sabah Baku vs Hapoel Beer Sheva | Tào Duệ" tvg-logo="https://thesport-api.devwithai.net/assets/img/football/team/44cc5a54d7859b9d062a6f56a39819f8.png" group-title="Vua San Co",25/08 23:45 | Sabah Baku vs Hapoel Beer Sheva | Tào Duệ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://cdn-global.ebaclofen.org/vsc/jonhny5/index.m3u8
-
-#EXTINF:-1 tvg-name="25/08 07:15 | Lanus vs Argentinos Juniors | Hấu" tvg-logo="https://images.keovip88.net/images/teams/lanus.png" group-title="Gio Vang",25/08 07:15 | Lanus vs Argentinos Juniors | Hấu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://eqr2hdarxfliv.vcdn.cloud/1787585760_hd/1787585760_hd@720p.m3u8
-
-#EXTINF:-1 tvg-name="25/08 07:15 | Talleres Cordoba vs Rosario Central | Mù" tvg-logo="https://images.keovip88.net/images/teams/talleres-cordoba.png" group-title="Gio Vang",25/08 07:15 | Talleres Cordoba vs Rosario Central | Mù
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://eqr2hdarxfliv.vcdn.cloud/1787585934_hd/1787585934_hd@720p.m3u8
-
-#EXTINF:-1 tvg-name="25/08 08:00 | Atlas vs Tijuana | Bee" tvg-logo="https://images.keovip88.net/images/teams/atlas.gif" group-title="Gio Vang",25/08 08:00 | Atlas vs Tijuana | Bee
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://eqr2hdarxfliv.vcdn.cloud/1787586009_hd/1787586009_hd@720p.m3u8
-
-#EXTINF:-1 tvg-name="25/08 08:40 | Arizona Diamondbacks vs Chicago Cubs | Cận" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcVStvvVE4AFk27fsazXiVFYEa1uAe9Tr0nbTGjbjYCg&s=10" group-title="Gio Vang",25/08 08:40 | Arizona Diamondbacks vs Chicago Cubs | Cận
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://eqr2hdarxfliv.vcdn.cloud/1787586492_hd/1787586492_hd@720p.m3u8
-
-#EXTINF:-1 tvg-name="25/08 09:00 | Los Angeles Sparks vs Atlanta Dream | Vịt" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/32f21070cfd05affb7125a707c2b3b37.png" group-title="Gio Vang",25/08 09:00 | Los Angeles Sparks vs Atlanta Dream | Vịt
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://eqr2hdarxfliv.vcdn.cloud/1787586243_hd/1787586243_hd@720p.m3u8
-
-#EXTINF:-1 tvg-name="25/08 09:00 | Thái Lan vs Kazakhstan | Sún" tvg-logo="https://static.flashscore.com/res/image/data/jH8flBZA-UknO2XLh.png" group-title="Gio Vang",25/08 09:00 | Thái Lan vs Kazakhstan | Sún
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://eqr2hdarxfliv.vcdn.cloud/1787586291_hd/1787586291_hd@720p.m3u8
 
 #EXTINF:-1 tvg-name="25/08 13:00 | Iran vs Iraq | Sún" tvg-logo="https://static.flashscore.com/res/image/data/xt3pVREa-tWhhL1yr.png" group-title="Gio Vang",25/08 13:00 | Iran vs Iraq | Sún
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -806,14 +738,6 @@ https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 https://luong.phaohoa.live/live/phaohoa1/index.m3u8?expire=1815505159&sign=9137553faeae361734eec8bda5ea16e2
 
-#EXTINF:-1 tvg-name="25/08 09:00 | Los Angeles Sparks W vs Atlanta Dream W | BLV POCARI" tvg-logo="https://img.gvapi.cc/basketball/team/0a53a0f3a3e739e2f9e57430b0291e28.png!w80" group-title="NV9L",25/08 09:00 | Los Angeles Sparks W vs Atlanta Dream W | BLV POCARI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://live05.meung.app/live/19919577.m3u8
-
-#EXTINF:-1 tvg-name="25/08 09:00 | Tacoma Defiance vs Sporting Kansas City 2 | BLV Cozy" tvg-logo="https://img.gvapi.cc/football/team/ff0d0739c041ad09fdc99db4c355a932.png!w80" group-title="NV9L",25/08 09:00 | Tacoma Defiance vs Sporting Kansas City 2 | BLV Cozy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://live05.meung.app/live/87379114.m3u8
-
 #EXTINF:-1 tvg-name="25/08 16:30 | Queensland Lions SC vs North Sunshine Eagles | BLV MOUNTAIN DEW" tvg-logo="https://img.gvapi.cc/football/team/ae6301924eac2e5f0ad32a32ab7355f2.png!w80" group-title="NV9L",25/08 16:30 | Queensland Lions SC vs North Sunshine Eagles | BLV MOUNTAIN DEW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 https://live05.meung.app/live/87547578.m3u8
@@ -1017,14 +941,6 @@ https://cdnhls.xbdbotv.live/live/ZjE5ODEzNDU1c3VqaWNlYmlxZzdhZms3YXp3ZWt0N2sxN2R
 #EXTINF:-1 tvg-id="biaom-xsf1lcz8j3yvqwospr7tvzjh" tvg-name="26/08 02:00 | Valencia vs Real Betis | ASAHI" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/valencia-214" group-title="Biaom TV",26/08 02:00 | Valencia vs Real Betis | ASAHI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/ZjE5NzMyNzMzc2hmNTg3OXQ1aHl6a3RiYmo3d2swbnJlNmR4c2YxbGN6OGozeXZxd29zcHI3dHZ6amg/index.m3u8
-
-#EXTINF:-1 tvg-name="25/08 09:00 | Los Angeles Sparks W vs Atlanta Dream W | Source 1" tvg-logo="https://img.gvapi.cc/basketball/team/0a53a0f3a3e739e2f9e57430b0291e28.png!w80" group-title="Cola TV",25/08 09:00 | Los Angeles Sparks W vs Atlanta Dream W | Source 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://live05.meung.app/live/19919577.m3u8
-
-#EXTINF:-1 tvg-name="25/08 09:00 | Tacoma Defiance vs Sporting Kansas City 2 | Source 1" tvg-logo="https://img.gvapi.cc/football/team/ff0d0739c041ad09fdc99db4c355a932.png!w80" group-title="Cola TV",25/08 09:00 | Tacoma Defiance vs Sporting Kansas City 2 | Source 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://live05.meung.app/live/87379114.m3u8
 
 #EXTINF:-1 tvg-name="25/08 16:30 | Queensland Lions SC vs North Sunshine Eagles | Source 1" tvg-logo="https://img.gvapi.cc/football/team/ae6301924eac2e5f0ad32a32ab7355f2.png!w80" group-title="Cola TV",25/08 16:30 | Queensland Lions SC vs North Sunshine Eagles | Source 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
