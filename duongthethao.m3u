@@ -1,124 +1,104 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="socolive-320129-603255" tvg-name="12/09 07:00 | Coritiba SAF - PR vs Athletico Paranaense - PR | BLV LION" tvg-logo="https://sta.vnres.co/file/common/20260909/c4ce91e422469c88d7356b95b5735b8c.png" group-title="Socolive",12/09 07:00 | Coritiba SAF - PR vs Athletico Paranaense - PR | BLV LION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789179842-0-0-8703bfa4a16fa58be1d7a2178087ee73
-
-#EXTINF:-1 tvg-id="socolive-320129-9912136" tvg-name="12/09 07:00 | Coritiba SAF - PR vs Athletico Paranaense - PR | BLV LONG" tvg-logo="https://sta.vnres.co/file/common/20260909/c4ce91e422469c88d7356b95b5735b8c.png" group-title="Socolive",12/09 07:00 | Coritiba SAF - PR vs Athletico Paranaense - PR | BLV LONG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=5f961098f135ee50109a96e4143fd1cd&txTime=6aa4fe12
-
-#EXTINF:-1 tvg-id="socolive-320129-9912132" tvg-name="12/09 07:00 | Coritiba SAF - PR vs Athletico Paranaense - PR | BLV XO" tvg-logo="https://sta.vnres.co/file/common/20260909/c4ce91e422469c88d7356b95b5735b8c.png" group-title="Socolive",12/09 07:00 | Coritiba SAF - PR vs Athletico Paranaense - PR | BLV XO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=bdec7a225d261d71f05dbedee95472f7&txTime=6aa4fe12
-
-#EXTINF:-1 tvg-id="socolive-320129-619672" tvg-name="12/09 07:00 | Coritiba SAF - PR vs Athletico Paranaense - PR | T REX" tvg-logo="https://sta.vnres.co/file/common/20260909/c4ce91e422469c88d7356b95b5735b8c.png" group-title="Socolive",12/09 07:00 | Coritiba SAF - PR vs Athletico Paranaense - PR | T REX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1789179842-0-0-3d56a54fb06c9fcbf2ad9571a1a09a67
-
 #EXTINF:-1 tvg-id="socolive-320130-532081" tvg-name="12/09 07:30 | Boca Juniors vs CA Central Cordoba SDE | BLV ALEX" tvg-logo="https://sta.vnres.co/file/common/20260909/6e2a08b27c31d5cd88a1d5fd64312e16.png" group-title="Socolive",12/09 07:30 | Boca Juniors vs CA Central Cordoba SDE | BLV ALEX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789179902-0-0-14ae7b41ae99bd649b427e5f98f03f71
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789183610-0-0-9bb83890620b4b5d1a0d7605f336a687
 
 #EXTINF:-1 tvg-id="socolive-320130-9912128" tvg-name="12/09 07:30 | Boca Juniors vs CA Central Cordoba SDE | CACAO" tvg-logo="https://sta.vnres.co/file/common/20260909/6e2a08b27c31d5cd88a1d5fd64312e16.png" group-title="Socolive",12/09 07:30 | Boca Juniors vs CA Central Cordoba SDE | CACAO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789179842-0-0-0cc262a4301f1b8af657cf1640ded2d2
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789183451-0-0-03ce6846e5b48e11e8eb9f7f1cc820ce
 
 #EXTINF:-1 tvg-id="socolive-320130-607400" tvg-name="12/09 07:30 | Boca Juniors vs CA Central Cordoba SDE | HÀ DUY KIÊN" tvg-logo="https://sta.vnres.co/file/common/20260909/6e2a08b27c31d5cd88a1d5fd64312e16.png" group-title="Socolive",12/09 07:30 | Boca Juniors vs CA Central Cordoba SDE | HÀ DUY KIÊN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=895a83bcf8dce12788acd3655fd3a2bd&txTime=6aa4fe12
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=3ade83c36c12d2ff4fd2d591d74da4be&txTime=6aa50bd9
 
 #EXTINF:-1 tvg-id="socolive-320130-603914" tvg-name="12/09 07:30 | Boca Juniors vs CA Central Cordoba SDE | TRÀ ĐÁ" tvg-logo="https://sta.vnres.co/file/common/20260909/6e2a08b27c31d5cd88a1d5fd64312e16.png" group-title="Socolive",12/09 07:30 | Boca Juniors vs CA Central Cordoba SDE | TRÀ ĐÁ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789179842-0-0-caebc38ae221922978e870badcd14278
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789183295-0-0-4848ec1c589d2b7d47d9dfe435f09919
 
 #EXTINF:-1 tvg-id="socolive-320251-356042" tvg-name="12/09 08:00 | Chinese Taipei vs Iran | A CHÈ" tvg-logo="https://sta.vnres.co/file/common/20260910/3b45a8794b866f1c0635be29ecc1d623.png" group-title="Socolive",12/09 08:00 | Chinese Taipei vs Iran | A CHÈ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=38269ec8b2f8c9629ff18d50d534b797&txTime=6aa4fe4e
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=e2e91807aa8b8ed91e383e37bba52c44&txTime=6aa50cd8
 
 #EXTINF:-1 tvg-id="socolive-320251-9912115" tvg-name="12/09 08:00 | Chinese Taipei vs Iran | CHAN SENA" tvg-logo="https://sta.vnres.co/file/common/20260910/3b45a8794b866f1c0635be29ecc1d623.png" group-title="Socolive",12/09 08:00 | Chinese Taipei vs Iran | CHAN SENA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789179902-0-0-83dd008762bd4540ccbcaf68b7ba747d
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789183622-0-0-96bcddfebbbffde44ae4493bc2bbbb99
 
 #EXTINF:-1 tvg-id="socolive-320132-9912114" tvg-name="12/09 08:00 | Correcaminos de la U.A.T. vs Cancun FC | BLV VOI" tvg-logo="https://sta.vnres.co/file/common/20260909/d4a35466c949a5be1f723067676036c7.png" group-title="Socolive",12/09 08:00 | Correcaminos de la U.A.T. vs Cancun FC | BLV VOI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789179902-0-0-21cbaa7befeb6a4aa08bd7219b555f74
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789183622-0-0-a6ce88a4a9e7fff1098c0d7ead52798b
 
 #EXTINF:-1 tvg-id="socolive-320132-621887" tvg-name="12/09 08:00 | Correcaminos de la U.A.T. vs Cancun FC | CHAN ĐÊ" tvg-logo="https://sta.vnres.co/file/common/20260909/d4a35466c949a5be1f723067676036c7.png" group-title="Socolive",12/09 08:00 | Correcaminos de la U.A.T. vs Cancun FC | CHAN ĐÊ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=5d4f5364c540938b39becadc08a2e4ff&txTime=6aa4fe4e
+https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=f4a10ca01e70eff4eae032ea7e9c5344&txTime=6aa50cd6
 
 #EXTINF:-1 tvg-id="socolive-320131-9912141" tvg-name="12/09 08:00 | Necaxa vs Puebla | BLV MESSI" tvg-logo="https://sta.vnres.co/file/common/20260909/8420f5fb8ab4e0a1ba6aa9e08bb8ef7a.png" group-title="Socolive",12/09 08:00 | Necaxa vs Puebla | BLV MESSI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789179902-0-0-a29fb74314e7f550bd0131e54c6bec22
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789183622-0-0-32de5b48ea2015d11e3c71ee6f691017
 
 #EXTINF:-1 tvg-id="socolive-320131-9912008" tvg-name="12/09 08:00 | Necaxa vs Puebla | BLV TOMIA" tvg-logo="https://sta.vnres.co/file/common/20260909/8420f5fb8ab4e0a1ba6aa9e08bb8ef7a.png" group-title="Socolive",12/09 08:00 | Necaxa vs Puebla | BLV TOMIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789179902-0-0-11f763c462f4d14624069ae0e5a0808a
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789183622-0-0-ede6de96cf959e216d2452f5bd632ef5
 
 #EXTINF:-1 tvg-id="socolive-320131-9912110" tvg-name="12/09 08:00 | Necaxa vs Puebla | BLV ZOWIE" tvg-logo="https://sta.vnres.co/file/common/20260909/8420f5fb8ab4e0a1ba6aa9e08bb8ef7a.png" group-title="Socolive",12/09 08:00 | Necaxa vs Puebla | BLV ZOWIE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789179902-0-0-c7b05a122faaf13201313531b4d35492
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789183622-0-0-1c0149bc697a7efca76909fc3fff5951
 
 #EXTINF:-1 tvg-id="socolive-320131-387694" tvg-name="12/09 08:00 | Necaxa vs Puebla | CR Bưởi" tvg-logo="https://sta.vnres.co/file/common/20260909/8420f5fb8ab4e0a1ba6aa9e08bb8ef7a.png" group-title="Socolive",12/09 08:00 | Necaxa vs Puebla | CR Bưởi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=aeaf9fe71776421b5e779462bee685ae&txTime=6aa4fe4e
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=8b6a9c44db13b03e01bd0beca65a1c39&txTime=6aa50cd6
 
 #EXTINF:-1 tvg-id="socolive-320131-414317" tvg-name="12/09 08:00 | Necaxa vs Puebla | THOMAS" tvg-logo="https://sta.vnres.co/file/common/20260909/8420f5fb8ab4e0a1ba6aa9e08bb8ef7a.png" group-title="Socolive",12/09 08:00 | Necaxa vs Puebla | THOMAS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=3a38562d55fa9b240adf914050660e28&txTime=6aa4fe4e
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=2659737d05895ed4f5c03a1e25bfe16f&txTime=6aa50cd6
 
 #EXTINF:-1 tvg-id="socolive-320134-485739" tvg-name="12/09 08:30 | New Mexico United vs Indy Eleven | BLV CHIVAS" tvg-logo="https://sta.vnres.co/file/common/20260909/a74348ce1362a6e50e78568bb028981b.png" group-title="Socolive",12/09 08:30 | New Mexico United vs Indy Eleven | BLV CHIVAS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=5235f2f05c939325ebca8826a527aa92&txTime=6aa4fe4e
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=1bd46ba9c76c2233a204a51fdb111c2c&txTime=6aa50cd6
 
 #EXTINF:-1 tvg-id="socolive-320134-618950" tvg-name="12/09 08:30 | New Mexico United vs Indy Eleven | CƠM NẾP" tvg-logo="https://sta.vnres.co/file/common/20260909/a74348ce1362a6e50e78568bb028981b.png" group-title="Socolive",12/09 08:30 | New Mexico United vs Indy Eleven | CƠM NẾP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789179902-0-0-2e799484f5108d63f298f52e3de66f5a
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789183622-0-0-970a1374bd6286d45f1f70240c46abbe
 
 #EXTINF:-1 tvg-id="socolive-320136-283501" tvg-name="12/09 09:00 | Colorado Springs vs San Antonio | BLV KAN" tvg-logo="https://sta.vnres.co/file/common/20260909/3332fa6e42ce2b9bed8d25ca478b0ec0.png" group-title="Socolive",12/09 09:00 | Colorado Springs vs San Antonio | BLV KAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=3c42cf80a15b796bb9ec079f521b2e4e&txTime=6aa4fd48
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=022da5ba4f2d4952b031f496597dc646&txTime=6aa50cd6
 
 #EXTINF:-1 tvg-id="socolive-320136-9912102" tvg-name="12/09 09:00 | Colorado Springs vs San Antonio | BLV RÔSI" tvg-logo="https://sta.vnres.co/file/common/20260909/3332fa6e42ce2b9bed8d25ca478b0ec0.png" group-title="Socolive",12/09 09:00 | Colorado Springs vs San Antonio | BLV RÔSI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=917f26de1840c583bd9a4fc2b1361aa5&txTime=6aa4fca8
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=4e3ca6fd8f27e472eb6d0b8dd14898c8&txTime=6aa50cd6
 
 #EXTINF:-1 tvg-id="socolive-320135-372746" tvg-name="12/09 09:00 | Municipal Pérez Zeledón vs AD San Carlos | BLV YONE" tvg-logo="https://sta.vnres.co/file/common/20260909/fd574cc94d1cf7e2c0ceb149150a801e.png" group-title="Socolive",12/09 09:00 | Municipal Pérez Zeledón vs AD San Carlos | BLV YONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789179278-0-0-1c9366b02f57cef97c0bb0c044501f57
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789183622-0-0-40760d8ba6a29ef7f8c50208c9df16ac
 
 #EXTINF:-1 tvg-id="socolive-320135-552832" tvg-name="12/09 09:00 | Municipal Pérez Zeledón vs AD San Carlos | LOGAN" tvg-logo="https://sta.vnres.co/file/common/20260909/fd574cc94d1cf7e2c0ceb149150a801e.png" group-title="Socolive",12/09 09:00 | Municipal Pérez Zeledón vs AD San Carlos | LOGAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=78ff019a627b0ec4d5c170689fd56882&txTime=6aa44f4e
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=8480bff08abdad7378dc7549aad20f6f&txTime=6aa50cd6
 
 #EXTINF:-1 tvg-id="socolive-320135-619672" tvg-name="12/09 09:00 | Municipal Pérez Zeledón vs AD San Carlos | T REX" tvg-logo="https://sta.vnres.co/file/common/20260909/fd574cc94d1cf7e2c0ceb149150a801e.png" group-title="Socolive",12/09 09:00 | Municipal Pérez Zeledón vs AD San Carlos | T REX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1789179842-0-0-3d56a54fb06c9fcbf2ad9571a1a09a67
-
-#EXTINF:-1 tvg-id="socolive-320252-9912112" tvg-name="12/09 09:00 | Santos vs Fuerza Regia | BLV HENRY" tvg-logo="https://sta.vnres.co/file/common/20260910/272b1706dc9f1742c19d3ddf88f055bb.png" group-title="Socolive",12/09 09:00 | Santos vs Fuerza Regia | BLV HENRY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789127336-0-0-ff4287d4dfe4935a42f8fe6f7cc47575
+https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1789183622-0-0-061f0772e03d09d9389c56006ea3917a
 
 #EXTINF:-1 tvg-id="socolive-320253-9912106" tvg-name="12/09 09:15 | Astros vs Soles | BRIAN" tvg-logo="https://sta.vnres.co/file/common/20260910/0ddbcecbb94a685677be4838e0d84732.png" group-title="Socolive",12/09 09:15 | Astros vs Soles | BRIAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789156855-0-0-028fd7f342318f4c885333a4d7a093c1
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789183622-0-0-d583869434f386c1448a1120661d80b3
 
 #EXTINF:-1 tvg-id="socolive-320137-532081" tvg-name="12/09 10:00 | Atlante FC vs Pachuca | BLV ALEX" tvg-logo="https://sta.vnres.co/file/common/20260909/c6c8edc01eebccdcdbee6fd126729d85.png" group-title="Socolive",12/09 10:00 | Atlante FC vs Pachuca | BLV ALEX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789179902-0-0-14ae7b41ae99bd649b427e5f98f03f71
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789183610-0-0-9bb83890620b4b5d1a0d7605f336a687
 
 #EXTINF:-1 tvg-id="socolive-320137-9912146" tvg-name="12/09 10:00 | Atlante FC vs Pachuca | BLV CUỘI" tvg-logo="https://sta.vnres.co/file/common/20260909/c6c8edc01eebccdcdbee6fd126729d85.png" group-title="Socolive",12/09 10:00 | Atlante FC vs Pachuca | BLV CUỘI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789142230-0-0-b330dc4240aaea7385a4b1340e28d77d
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789183622-0-0-6e47730bbc77628a9b58cb12155d29fe
 
 #EXTINF:-1 tvg-id="socolive-320137-9912008" tvg-name="12/09 10:00 | Atlante FC vs Pachuca | BLV TOMIA" tvg-logo="https://sta.vnres.co/file/common/20260909/c6c8edc01eebccdcdbee6fd126729d85.png" group-title="Socolive",12/09 10:00 | Atlante FC vs Pachuca | BLV TOMIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789179902-0-0-11f763c462f4d14624069ae0e5a0808a
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789183622-0-0-ede6de96cf959e216d2452f5bd632ef5
 
 #EXTINF:-1 tvg-id="socolive-320137-387694" tvg-name="12/09 10:00 | Atlante FC vs Pachuca | CR Bưởi" tvg-logo="https://sta.vnres.co/file/common/20260909/c6c8edc01eebccdcdbee6fd126729d85.png" group-title="Socolive",12/09 10:00 | Atlante FC vs Pachuca | CR Bưởi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=aeaf9fe71776421b5e779462bee685ae&txTime=6aa4fe4e
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=8b6a9c44db13b03e01bd0beca65a1c39&txTime=6aa50cd6
 
 #EXTINF:-1 tvg-id="socolive-320137-527384" tvg-name="12/09 10:00 | Atlante FC vs Pachuca | LÃO LÂM" tvg-logo="https://sta.vnres.co/file/common/20260909/c6c8edc01eebccdcdbee6fd126729d85.png" group-title="Socolive",12/09 10:00 | Atlante FC vs Pachuca | LÃO LÂM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -130,11 +110,7 @@ https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789126558-0-0-a04
 
 #EXTINF:-1 tvg-id="socolive-320139-9912114" tvg-name="12/09 10:06 | Atlas Women vs Atlante Women | BLV VOI" tvg-logo="https://sta.vnres.co/file/common/20260909/74a547f952292a19d5e81b2846475d8e.png" group-title="Socolive",12/09 10:06 | Atlas Women vs Atlante Women | BLV VOI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789179902-0-0-21cbaa7befeb6a4aa08bd7219b555f74
-
-#EXTINF:-1 tvg-id="socolive-320139-619561" tvg-name="12/09 10:06 | Atlas Women vs Atlante Women | BÚN ĐẬU" tvg-logo="https://sta.vnres.co/file/common/20260909/74a547f952292a19d5e81b2846475d8e.png" group-title="Socolive",12/09 10:06 | Atlas Women vs Atlante Women | BÚN ĐẬU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789138656-0-0-b45cd5af3ed37c189042c7bc67826d3b
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789183622-0-0-a6ce88a4a9e7fff1098c0d7ead52798b
 
 #EXTINF:-1 tvg-id="socolive-320138-9912142" tvg-name="12/09 10:10 | Club Tijuana vs Queretaro FC | A BỆU" tvg-logo="https://sta.vnres.co/file/common/20260909/392096fc55ba3340e99f195f32a08a2f.png" group-title="Socolive",12/09 10:10 | Club Tijuana vs Queretaro FC | A BỆU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -142,11 +118,11 @@ https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789142364-0-0-bf4
 
 #EXTINF:-1 tvg-id="socolive-320138-9912091" tvg-name="12/09 10:10 | Club Tijuana vs Queretaro FC | BLV Củ Cải" tvg-logo="https://sta.vnres.co/file/common/20260909/392096fc55ba3340e99f195f32a08a2f.png" group-title="Socolive",12/09 10:10 | Club Tijuana vs Queretaro FC | BLV Củ Cải
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789142263-0-0-0c9b2d39c4badc901f54c08f50a83a90
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789183629-0-0-72291869e0faf4ed41c3011991a8ab22
 
 #EXTINF:-1 tvg-id="socolive-320138-9912136" tvg-name="12/09 10:10 | Club Tijuana vs Queretaro FC | BLV LONG" tvg-logo="https://sta.vnres.co/file/common/20260909/392096fc55ba3340e99f195f32a08a2f.png" group-title="Socolive",12/09 10:10 | Club Tijuana vs Queretaro FC | BLV LONG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=5f961098f135ee50109a96e4143fd1cd&txTime=6aa4fe12
+https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=2657c6ac58f61f6f4acfc2a91e7d76d2&txTime=6aa50cd8
 
 #EXTINF:-1 tvg-id="socolive-320138-9912041" tvg-name="12/09 10:10 | Club Tijuana vs Queretaro FC | BLV TAP" tvg-logo="https://sta.vnres.co/file/common/20260909/392096fc55ba3340e99f195f32a08a2f.png" group-title="Socolive",12/09 10:10 | Club Tijuana vs Queretaro FC | BLV TAP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -154,7 +130,7 @@ https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=3400c9ac6f95de5ae3e
 
 #EXTINF:-1 tvg-id="socolive-320138-414317" tvg-name="12/09 10:10 | Club Tijuana vs Queretaro FC | THOMAS" tvg-logo="https://sta.vnres.co/file/common/20260909/392096fc55ba3340e99f195f32a08a2f.png" group-title="Socolive",12/09 10:10 | Club Tijuana vs Queretaro FC | THOMAS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=3a38562d55fa9b240adf914050660e28&txTime=6aa4fe4e
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=2659737d05895ed4f5c03a1e25bfe16f&txTime=6aa50cd6
 
 #EXTINF:-1 tvg-id="socolive-320138-9912145" tvg-name="12/09 10:10 | Club Tijuana vs Queretaro FC | ZIDANE" tvg-logo="https://sta.vnres.co/file/common/20260909/392096fc55ba3340e99f195f32a08a2f.png" group-title="Socolive",12/09 10:10 | Club Tijuana vs Queretaro FC | ZIDANE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -162,19 +138,19 @@ https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789151269-0-0-3c6
 
 #EXTINF:-1 tvg-id="socolive-320254-356042" tvg-name="12/09 11:00 | Qatar vs Jordan | A CHÈ" tvg-logo="https://sta.vnres.co/file/common/20260910/1e8b52e04dd8103c8d25e596b834e2cd.png" group-title="Socolive",12/09 11:00 | Qatar vs Jordan | A CHÈ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=38269ec8b2f8c9629ff18d50d534b797&txTime=6aa4fe4e
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=e2e91807aa8b8ed91e383e37bba52c44&txTime=6aa50cd8
 
 #EXTINF:-1 tvg-id="socolive-320254-9912115" tvg-name="12/09 11:00 | Qatar vs Jordan | CHAN SENA" tvg-logo="https://sta.vnres.co/file/common/20260910/1e8b52e04dd8103c8d25e596b834e2cd.png" group-title="Socolive",12/09 11:00 | Qatar vs Jordan | CHAN SENA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789179902-0-0-83dd008762bd4540ccbcaf68b7ba747d
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789183622-0-0-96bcddfebbbffde44ae4493bc2bbbb99
 
 #EXTINF:-1 tvg-id="socolive-320255-9912106" tvg-name="12/09 14:00 | Bahrain vs China | BRIAN" tvg-logo="https://sta.vnres.co/file/common/20260910/2ca8d30667709c656efbb3c79dd40158.png" group-title="Socolive",12/09 14:00 | Bahrain vs China | BRIAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789156855-0-0-028fd7f342318f4c885333a4d7a093c1
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789183622-0-0-d583869434f386c1448a1120661d80b3
 
 #EXTINF:-1 tvg-id="socolive-320255-9912115" tvg-name="12/09 14:00 | Bahrain vs China | CHAN SENA" tvg-logo="https://sta.vnres.co/file/common/20260910/2ca8d30667709c656efbb3c79dd40158.png" group-title="Socolive",12/09 14:00 | Bahrain vs China | CHAN SENA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789179902-0-0-83dd008762bd4540ccbcaf68b7ba747d
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789183622-0-0-96bcddfebbbffde44ae4493bc2bbbb99
 
 #EXTINF:-1 tvg-id="socolive-320140-491873" tvg-name="12/09 14:30 | Bucheon FC 1995 vs Jeju SK FC | BLV VIP" tvg-logo="https://sta.vnres.co/file/common/20260909/7f90cada1a56623f92ba8c87c396f6ef.png" group-title="Socolive",12/09 14:30 | Bucheon FC 1995 vs Jeju SK FC | BLV VIP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -190,7 +166,7 @@ https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789158635-0-0-1bc5
 
 #EXTINF:-1 tvg-id="socolive-320141-9912128" tvg-name="12/09 14:30 | Jeonbuk Hyundai Motors vs FC Seoul | CACAO" tvg-logo="https://sta.vnres.co/file/common/20260909/64bce68004028fcc2067855ab7dbdc23.png" group-title="Socolive",12/09 14:30 | Jeonbuk Hyundai Motors vs FC Seoul | CACAO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789179842-0-0-0cc262a4301f1b8af657cf1640ded2d2
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789183451-0-0-03ce6846e5b48e11e8eb9f7f1cc820ce
 
 #EXTINF:-1 tvg-id="socolive-320141-9912124" tvg-name="12/09 14:30 | Jeonbuk Hyundai Motors vs FC Seoul | KENCHU" tvg-logo="https://sta.vnres.co/file/common/20260909/64bce68004028fcc2067855ab7dbdc23.png" group-title="Socolive",12/09 14:30 | Jeonbuk Hyundai Motors vs FC Seoul | KENCHU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -226,7 +202,7 @@ https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=d0758e7550ed7913084
 
 #EXTINF:-1 tvg-id="socolive-320256-356042" tvg-name="12/09 15:00 | Tasmania JackJumpers vs Sydney Kings | A CHÈ" tvg-logo="https://sta.vnres.co/file/common/20260910/8700a8187e551d9188eae34750afe6ab.png" group-title="Socolive",12/09 15:00 | Tasmania JackJumpers vs Sydney Kings | A CHÈ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=38269ec8b2f8c9629ff18d50d534b797&txTime=6aa4fe4e
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=e2e91807aa8b8ed91e383e37bba52c44&txTime=6aa50cd8
 
 #EXTINF:-1 tvg-id="socolive-320256-9912112" tvg-name="12/09 15:00 | Tasmania JackJumpers vs Sydney Kings | BLV HENRY" tvg-logo="https://sta.vnres.co/file/common/20260910/8700a8187e551d9188eae34750afe6ab.png" group-title="Socolive",12/09 15:00 | Tasmania JackJumpers vs Sydney Kings | BLV HENRY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -250,15 +226,15 @@ https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=3400c9ac6f95de5ae3e
 
 #EXTINF:-1 tvg-id="socolive-320143-9912008" tvg-name="12/09 15:30 | Persija Jakarta vs Persib Bandung | BLV TOMIA" tvg-logo="https://sta.vnres.co/file/common/20260909/18b57ef2b9af15238e4a473c0147b673.png" group-title="Socolive",12/09 15:30 | Persija Jakarta vs Persib Bandung | BLV TOMIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789179902-0-0-11f763c462f4d14624069ae0e5a0808a
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789183622-0-0-ede6de96cf959e216d2452f5bd632ef5
 
 #EXTINF:-1 tvg-id="socolive-320143-9912110" tvg-name="12/09 15:30 | Persija Jakarta vs Persib Bandung | BLV ZOWIE" tvg-logo="https://sta.vnres.co/file/common/20260909/18b57ef2b9af15238e4a473c0147b673.png" group-title="Socolive",12/09 15:30 | Persija Jakarta vs Persib Bandung | BLV ZOWIE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789179902-0-0-c7b05a122faaf13201313531b4d35492
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789183622-0-0-1c0149bc697a7efca76909fc3fff5951
 
 #EXTINF:-1 tvg-id="socolive-320144-603255" tvg-name="12/09 15:30 | PSS Sleman vs Madura United | BLV LION" tvg-logo="https://sta.vnres.co/file/common/20260909/8b315a2093c1cfd02ba7507a241edc7d.png" group-title="Socolive",12/09 15:30 | PSS Sleman vs Madura United | BLV LION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789179842-0-0-8703bfa4a16fa58be1d7a2178087ee73
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789183415-0-0-18064abcf4f2fd7f425c88c1b2b81d07
 
 #EXTINF:-1 tvg-id="socolive-320144-534055" tvg-name="12/09 15:30 | PSS Sleman vs Madura United | BLV RAMBO" tvg-logo="https://sta.vnres.co/file/common/20260909/8b315a2093c1cfd02ba7507a241edc7d.png" group-title="Socolive",12/09 15:30 | PSS Sleman vs Madura United | BLV RAMBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -266,7 +242,7 @@ https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=9d74e11197ac7a567f98
 
 #EXTINF:-1 tvg-id="socolive-320145-9912091" tvg-name="12/09 16:00 | Mito Hollyhock vs Kawasaki Frontale | BLV Củ Cải" tvg-logo="https://sta.vnres.co/file/common/20260909/0aa4da1822200c714f096115a2af0a29.png" group-title="Socolive",12/09 16:00 | Mito Hollyhock vs Kawasaki Frontale | BLV Củ Cải
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789142263-0-0-0c9b2d39c4badc901f54c08f50a83a90
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789183629-0-0-72291869e0faf4ed41c3011991a8ab22
 
 #EXTINF:-1 tvg-id="socolive-320145-991140" tvg-name="12/09 16:00 | Mito Hollyhock vs Kawasaki Frontale | BLV FIREMAN" tvg-logo="https://sta.vnres.co/file/common/20260909/0aa4da1822200c714f096115a2af0a29.png" group-title="Socolive",12/09 16:00 | Mito Hollyhock vs Kawasaki Frontale | BLV FIREMAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -282,7 +258,7 @@ https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=fcbeee7f27e09d4249c8
 
 #EXTINF:-1 tvg-id="socolive-320145-552832" tvg-name="12/09 16:00 | Mito Hollyhock vs Kawasaki Frontale | LOGAN" tvg-logo="https://sta.vnres.co/file/common/20260909/0aa4da1822200c714f096115a2af0a29.png" group-title="Socolive",12/09 16:00 | Mito Hollyhock vs Kawasaki Frontale | LOGAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=78ff019a627b0ec4d5c170689fd56882&txTime=6aa44f4e
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=8480bff08abdad7378dc7549aad20f6f&txTime=6aa50cd6
 
 #EXTINF:-1 tvg-id="socolive-320145-9912145" tvg-name="12/09 16:00 | Mito Hollyhock vs Kawasaki Frontale | ZIDANE" tvg-logo="https://sta.vnres.co/file/common/20260909/0aa4da1822200c714f096115a2af0a29.png" group-title="Socolive",12/09 16:00 | Mito Hollyhock vs Kawasaki Frontale | ZIDANE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -294,7 +270,7 @@ https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=59b4a068024b58031874
 
 #EXTINF:-1 tvg-id="socolive-320146-372746" tvg-name="12/09 16:30 | Shimizu S-Pulse vs Avispa Fukuoka | BLV YONE" tvg-logo="https://sta.vnres.co/file/common/20260909/8514ccec8c91a8f8ca40099bb374ebcb.png" group-title="Socolive",12/09 16:30 | Shimizu S-Pulse vs Avispa Fukuoka | BLV YONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789179278-0-0-1c9366b02f57cef97c0bb0c044501f57
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789183622-0-0-40760d8ba6a29ef7f8c50208c9df16ac
 
 #EXTINF:-1 tvg-id="socolive-320146-619561" tvg-name="12/09 16:30 | Shimizu S-Pulse vs Avispa Fukuoka | BÚN ĐẬU" tvg-logo="https://sta.vnres.co/file/common/20260909/8514ccec8c91a8f8ca40099bb374ebcb.png" group-title="Socolive",12/09 16:30 | Shimizu S-Pulse vs Avispa Fukuoka | BÚN ĐẬU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -306,7 +282,7 @@ https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789162753-0-0-1a2c
 
 #EXTINF:-1 tvg-id="socolive-320147-9912102" tvg-name="12/09 17:00 | Gamba Osaka vs FC Tokyo | BLV RÔSI" tvg-logo="https://sta.vnres.co/file/common/20260909/dbc36a3cabb232f98a2bccfc2097a1a4.png" group-title="Socolive",12/09 17:00 | Gamba Osaka vs FC Tokyo | BLV RÔSI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=917f26de1840c583bd9a4fc2b1361aa5&txTime=6aa4fca8
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=4e3ca6fd8f27e472eb6d0b8dd14898c8&txTime=6aa50cd6
 
 #EXTINF:-1 tvg-id="socolive-320147-620084" tvg-name="12/09 17:00 | Gamba Osaka vs FC Tokyo | PEANUT" tvg-logo="https://sta.vnres.co/file/common/20260909/dbc36a3cabb232f98a2bccfc2097a1a4.png" group-title="Socolive",12/09 17:00 | Gamba Osaka vs FC Tokyo | PEANUT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -314,11 +290,11 @@ https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789146062-0-0-c412
 
 #EXTINF:-1 tvg-id="socolive-320258-356042" tvg-name="12/09 17:00 | Kazakhstan vs Philippines | A CHÈ" tvg-logo="https://sta.vnres.co/file/common/20260910/1594ab14b31738c2edc549b203676b01.png" group-title="Socolive",12/09 17:00 | Kazakhstan vs Philippines | A CHÈ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=38269ec8b2f8c9629ff18d50d534b797&txTime=6aa4fe4e
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=e2e91807aa8b8ed91e383e37bba52c44&txTime=6aa50cd8
 
 #EXTINF:-1 tvg-id="socolive-320258-9912115" tvg-name="12/09 17:00 | Kazakhstan vs Philippines | CHAN SENA" tvg-logo="https://sta.vnres.co/file/common/20260910/1594ab14b31738c2edc549b203676b01.png" group-title="Socolive",12/09 17:00 | Kazakhstan vs Philippines | CHAN SENA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789179902-0-0-83dd008762bd4540ccbcaf68b7ba747d
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789183622-0-0-96bcddfebbbffde44ae4493bc2bbbb99
 
 #EXTINF:-1 tvg-id="socolive-320148-9912142" tvg-name="12/09 17:00 | Machida Zelvia vs Yokohama F. Marinos | A BỆU" tvg-logo="https://sta.vnres.co/file/common/20260909/186f67fe76d49c72b5ee3f00180d366b.png" group-title="Socolive",12/09 17:00 | Machida Zelvia vs Yokohama F. Marinos | A BỆU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -330,7 +306,7 @@ https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789158635-0-0-1bc5
 
 #EXTINF:-1 tvg-id="socolive-320148-9912141" tvg-name="12/09 17:00 | Machida Zelvia vs Yokohama F. Marinos | BLV MESSI" tvg-logo="https://sta.vnres.co/file/common/20260909/186f67fe76d49c72b5ee3f00180d366b.png" group-title="Socolive",12/09 17:00 | Machida Zelvia vs Yokohama F. Marinos | BLV MESSI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789179902-0-0-a29fb74314e7f550bd0131e54c6bec22
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789183622-0-0-32de5b48ea2015d11e3c71ee6f691017
 
 #EXTINF:-1 tvg-id="socolive-320148-9912135" tvg-name="12/09 17:00 | Machida Zelvia vs Yokohama F. Marinos | BLV PEWPEW" tvg-logo="https://sta.vnres.co/file/common/20260909/186f67fe76d49c72b5ee3f00180d366b.png" group-title="Socolive",12/09 17:00 | Machida Zelvia vs Yokohama F. Marinos | BLV PEWPEW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -338,7 +314,7 @@ https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789156380-0-0-5cc
 
 #EXTINF:-1 tvg-id="socolive-320148-9912132" tvg-name="12/09 17:00 | Machida Zelvia vs Yokohama F. Marinos | BLV XO" tvg-logo="https://sta.vnres.co/file/common/20260909/186f67fe76d49c72b5ee3f00180d366b.png" group-title="Socolive",12/09 17:00 | Machida Zelvia vs Yokohama F. Marinos | BLV XO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=bdec7a225d261d71f05dbedee95472f7&txTime=6aa4fe12
+https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=ccce184ca0c3f689807aca290647ba25&txTime=6aa50cd6
 
 #EXTINF:-1 tvg-id="socolive-320148-9912143" tvg-name="12/09 17:00 | Machida Zelvia vs Yokohama F. Marinos | NGƯỜI CÁ" tvg-logo="https://sta.vnres.co/file/common/20260909/186f67fe76d49c72b5ee3f00180d366b.png" group-title="Socolive",12/09 17:00 | Machida Zelvia vs Yokohama F. Marinos | NGƯỜI CÁ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -350,11 +326,11 @@ https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1789125970-0-0-2e05
 
 #EXTINF:-1 tvg-id="socolive-320149-619672" tvg-name="12/09 17:00 | Sanfrecce Hiroshima vs Cerezo Osaka | T REX" tvg-logo="https://sta.vnres.co/file/common/20260909/73520e0d5e19a699cc28f233c40b06e5.png" group-title="Socolive",12/09 17:00 | Sanfrecce Hiroshima vs Cerezo Osaka | T REX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1789179842-0-0-3d56a54fb06c9fcbf2ad9571a1a09a67
+https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1789183622-0-0-061f0772e03d09d9389c56006ea3917a
 
 #EXTINF:-1 tvg-id="socolive-320149-603914" tvg-name="12/09 17:00 | Sanfrecce Hiroshima vs Cerezo Osaka | TRÀ ĐÁ" tvg-logo="https://sta.vnres.co/file/common/20260909/73520e0d5e19a699cc28f233c40b06e5.png" group-title="Socolive",12/09 17:00 | Sanfrecce Hiroshima vs Cerezo Osaka | TRÀ ĐÁ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789179842-0-0-caebc38ae221922978e870badcd14278
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789183295-0-0-4848ec1c589d2b7d47d9dfe435f09919
 
 #EXTINF:-1 tvg-id="socolive-320149-9912138" tvg-name="12/09 17:00 | Sanfrecce Hiroshima vs Cerezo Osaka | TUẤN CÙI" tvg-logo="https://sta.vnres.co/file/common/20260909/73520e0d5e19a699cc28f233c40b06e5.png" group-title="Socolive",12/09 17:00 | Sanfrecce Hiroshima vs Cerezo Osaka | TUẤN CÙI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -394,7 +370,7 @@ https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=8bc862263e5e62020f0c
 
 #EXTINF:-1 tvg-id="socolive-320152-9912114" tvg-name="12/09 18:00 | Eintracht Braunschweig vs Dynamo Dresden | BLV VOI" tvg-logo="https://sta.vnres.co/file/common/20260909/3e9709cc7a1af41a8ccf031d867286d9.png" group-title="Socolive",12/09 18:00 | Eintracht Braunschweig vs Dynamo Dresden | BLV VOI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789179902-0-0-21cbaa7befeb6a4aa08bd7219b555f74
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789183622-0-0-a6ce88a4a9e7fff1098c0d7ead52798b
 
 #EXTINF:-1 tvg-id="socolive-320152-620797" tvg-name="12/09 18:00 | Eintracht Braunschweig vs Dynamo Dresden | BÒ TƯƠI" tvg-logo="https://sta.vnres.co/file/common/20260909/3e9709cc7a1af41a8ccf031d867286d9.png" group-title="Socolive",12/09 18:00 | Eintracht Braunschweig vs Dynamo Dresden | BÒ TƯƠI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -410,7 +386,7 @@ https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1789163015-0-0-9328
 
 #EXTINF:-1 tvg-id="socolive-320154-9912146" tvg-name="12/09 18:00 | Tianjin Jinmen Tiger vs Liaoning Tieren | BLV CUỘI" tvg-logo="https://sta.vnres.co/file/common/20260909/075d71d59a448e7c5f8a344c88c67e66.png" group-title="Socolive",12/09 18:00 | Tianjin Jinmen Tiger vs Liaoning Tieren | BLV CUỘI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789142230-0-0-b330dc4240aaea7385a4b1340e28d77d
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789183622-0-0-6e47730bbc77628a9b58cb12155d29fe
 
 #EXTINF:-1 tvg-id="socolive-320154-620504" tvg-name="12/09 18:00 | Tianjin Jinmen Tiger vs Liaoning Tieren | BOSS" tvg-logo="https://sta.vnres.co/file/common/20260909/075d71d59a448e7c5f8a344c88c67e66.png" group-title="Socolive",12/09 18:00 | Tianjin Jinmen Tiger vs Liaoning Tieren | BOSS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -422,11 +398,11 @@ https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=f334941d96729c5ae55f
 
 #EXTINF:-1 tvg-id="socolive-320151-485739" tvg-name="12/09 18:00 | VfL Bochum 1848 vs SpVgg Greuther Fürth | BLV CHIVAS" tvg-logo="https://sta.vnres.co/file/common/20260909/009004a7f6c28bad7d9d5228bfcab3ee.png" group-title="Socolive",12/09 18:00 | VfL Bochum 1848 vs SpVgg Greuther Fürth | BLV CHIVAS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=5235f2f05c939325ebca8826a527aa92&txTime=6aa4fe4e
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=1bd46ba9c76c2233a204a51fdb111c2c&txTime=6aa50cd6
 
 #EXTINF:-1 tvg-id="socolive-320151-618950" tvg-name="12/09 18:00 | VfL Bochum 1848 vs SpVgg Greuther Fürth | CƠM NẾP" tvg-logo="https://sta.vnres.co/file/common/20260909/009004a7f6c28bad7d9d5228bfcab3ee.png" group-title="Socolive",12/09 18:00 | VfL Bochum 1848 vs SpVgg Greuther Fürth | CƠM NẾP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789179902-0-0-2e799484f5108d63f298f52e3de66f5a
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789183622-0-0-970a1374bd6286d45f1f70240c46abbe
 
 #EXTINF:-1 tvg-id="socolive-320151-9912124" tvg-name="12/09 18:00 | VfL Bochum 1848 vs SpVgg Greuther Fürth | KENCHU" tvg-logo="https://sta.vnres.co/file/common/20260909/009004a7f6c28bad7d9d5228bfcab3ee.png" group-title="Socolive",12/09 18:00 | VfL Bochum 1848 vs SpVgg Greuther Fürth | KENCHU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -438,7 +414,7 @@ https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=9d74e11197ac7a567f98
 
 #EXTINF:-1 tvg-id="socolive-320155-9912110" tvg-name="12/09 18:30 | Derby County vs Birmingham City | BLV ZOWIE" tvg-logo="https://sta.vnres.co/file/common/20260909/7a093112258fee9b2aecae39826ec9fc.png" group-title="Socolive",12/09 18:30 | Derby County vs Birmingham City | BLV ZOWIE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789179902-0-0-c7b05a122faaf13201313531b4d35492
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789183622-0-0-1c0149bc697a7efca76909fc3fff5951
 
 #EXTINF:-1 tvg-id="socolive-320155-622240" tvg-name="12/09 18:30 | Derby County vs Birmingham City | CURRY" tvg-logo="https://sta.vnres.co/file/common/20260909/7a093112258fee9b2aecae39826ec9fc.png" group-title="Socolive",12/09 18:30 | Derby County vs Birmingham City | CURRY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -474,7 +450,7 @@ https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789154986-0-0-ccb3
 
 #EXTINF:-1 tvg-id="socolive-320157-532081" tvg-name="12/09 19:00 | Racing Santander vs Deportivo Alavés | BLV ALEX" tvg-logo="https://sta.vnres.co/file/common/20260909/44bfda86f6c5505246f83ad7d4357ef6.png" group-title="Socolive",12/09 19:00 | Racing Santander vs Deportivo Alavés | BLV ALEX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789179902-0-0-14ae7b41ae99bd649b427e5f98f03f71
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789183610-0-0-9bb83890620b4b5d1a0d7605f336a687
 
 #EXTINF:-1 tvg-id="socolive-320157-582342" tvg-name="12/09 19:00 | Racing Santander vs Deportivo Alavés | BLV CÒ" tvg-logo="https://sta.vnres.co/file/common/20260909/44bfda86f6c5505246f83ad7d4357ef6.png" group-title="Socolive",12/09 19:00 | Racing Santander vs Deportivo Alavés | BLV CÒ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -482,19 +458,19 @@ https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789149415-0-0-4427
 
 #EXTINF:-1 tvg-id="socolive-320157-9912091" tvg-name="12/09 19:00 | Racing Santander vs Deportivo Alavés | BLV Củ Cải" tvg-logo="https://sta.vnres.co/file/common/20260909/44bfda86f6c5505246f83ad7d4357ef6.png" group-title="Socolive",12/09 19:00 | Racing Santander vs Deportivo Alavés | BLV Củ Cải
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789142263-0-0-0c9b2d39c4badc901f54c08f50a83a90
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789183629-0-0-72291869e0faf4ed41c3011991a8ab22
 
 #EXTINF:-1 tvg-id="socolive-320157-603255" tvg-name="12/09 19:00 | Racing Santander vs Deportivo Alavés | BLV LION" tvg-logo="https://sta.vnres.co/file/common/20260909/44bfda86f6c5505246f83ad7d4357ef6.png" group-title="Socolive",12/09 19:00 | Racing Santander vs Deportivo Alavés | BLV LION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789179842-0-0-8703bfa4a16fa58be1d7a2178087ee73
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789183415-0-0-18064abcf4f2fd7f425c88c1b2b81d07
 
 #EXTINF:-1 tvg-id="socolive-320157-607400" tvg-name="12/09 19:00 | Racing Santander vs Deportivo Alavés | HÀ DUY KIÊN" tvg-logo="https://sta.vnres.co/file/common/20260909/44bfda86f6c5505246f83ad7d4357ef6.png" group-title="Socolive",12/09 19:00 | Racing Santander vs Deportivo Alavés | HÀ DUY KIÊN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=895a83bcf8dce12788acd3655fd3a2bd&txTime=6aa4fe12
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=3ade83c36c12d2ff4fd2d591d74da4be&txTime=6aa50bd9
 
 #EXTINF:-1 tvg-id="socolive-320157-414317" tvg-name="12/09 19:00 | Racing Santander vs Deportivo Alavés | THOMAS" tvg-logo="https://sta.vnres.co/file/common/20260909/44bfda86f6c5505246f83ad7d4357ef6.png" group-title="Socolive",12/09 19:00 | Racing Santander vs Deportivo Alavés | THOMAS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=3a38562d55fa9b240adf914050660e28&txTime=6aa4fe4e
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=2659737d05895ed4f5c03a1e25bfe16f&txTime=6aa50cd6
 
 #EXTINF:-1 tvg-id="socolive-320158-597929" tvg-name="12/09 19:15 | Hanoi FC vs Song Lam Nghe An | BLV CÁO" tvg-logo="https://sta.vnres.co/file/common/20260909/ae7563b7be4c7ee0a611093da1cf9c36.png" group-title="Socolive",12/09 19:15 | Hanoi FC vs Song Lam Nghe An | BLV CÁO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -506,7 +482,7 @@ https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=3472a0b09ec10e986466
 
 #EXTINF:-1 tvg-id="socolive-320158-283501" tvg-name="12/09 19:15 | Hanoi FC vs Song Lam Nghe An | BLV KAN" tvg-logo="https://sta.vnres.co/file/common/20260909/ae7563b7be4c7ee0a611093da1cf9c36.png" group-title="Socolive",12/09 19:15 | Hanoi FC vs Song Lam Nghe An | BLV KAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=3c42cf80a15b796bb9ec079f521b2e4e&txTime=6aa4fd48
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=022da5ba4f2d4952b031f496597dc646&txTime=6aa50cd6
 
 #EXTINF:-1 tvg-id="socolive-320158-527383" tvg-name="12/09 19:15 | Hanoi FC vs Song Lam Nghe An | BLV ROBBEN" tvg-logo="https://sta.vnres.co/file/common/20260909/ae7563b7be4c7ee0a611093da1cf9c36.png" group-title="Socolive",12/09 19:15 | Hanoi FC vs Song Lam Nghe An | BLV ROBBEN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -514,7 +490,7 @@ https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789162786-0-0-3986
 
 #EXTINF:-1 tvg-id="socolive-320158-9912102" tvg-name="12/09 19:15 | Hanoi FC vs Song Lam Nghe An | BLV RÔSI" tvg-logo="https://sta.vnres.co/file/common/20260909/ae7563b7be4c7ee0a611093da1cf9c36.png" group-title="Socolive",12/09 19:15 | Hanoi FC vs Song Lam Nghe An | BLV RÔSI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=917f26de1840c583bd9a4fc2b1361aa5&txTime=6aa4fca8
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=4e3ca6fd8f27e472eb6d0b8dd14898c8&txTime=6aa50cd6
 
 #EXTINF:-1 tvg-id="socolive-320158-617313" tvg-name="12/09 19:15 | Hanoi FC vs Song Lam Nghe An | VINFAST" tvg-logo="https://sta.vnres.co/file/common/20260909/ae7563b7be4c7ee0a611093da1cf9c36.png" group-title="Socolive",12/09 19:15 | Hanoi FC vs Song Lam Nghe An | VINFAST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -542,7 +518,7 @@ https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789106882-0-0-0916
 
 #EXTINF:-1 tvg-id="socolive-320161-9912136" tvg-name="12/09 20:30 | Borussia Dortmund vs SC Paderborn 07 | BLV LONG" tvg-logo="https://sta.vnres.co/file/common/20260909/c90ce1103df1c344b5730ef9ca175ec1.png" group-title="Socolive",12/09 20:30 | Borussia Dortmund vs SC Paderborn 07 | BLV LONG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=5f961098f135ee50109a96e4143fd1cd&txTime=6aa4fe12
+https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=2657c6ac58f61f6f4acfc2a91e7d76d2&txTime=6aa50cd8
 
 #EXTINF:-1 tvg-id="socolive-320161-304148" tvg-name="12/09 20:30 | Borussia Dortmund vs SC Paderborn 07 | BLV LUCAS" tvg-logo="https://sta.vnres.co/file/common/20260909/c90ce1103df1c344b5730ef9ca175ec1.png" group-title="Socolive",12/09 20:30 | Borussia Dortmund vs SC Paderborn 07 | BLV LUCAS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -550,7 +526,7 @@ https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1789167908-0-0-1379
 
 #EXTINF:-1 tvg-id="socolive-320161-9912132" tvg-name="12/09 20:30 | Borussia Dortmund vs SC Paderborn 07 | BLV XO" tvg-logo="https://sta.vnres.co/file/common/20260909/c90ce1103df1c344b5730ef9ca175ec1.png" group-title="Socolive",12/09 20:30 | Borussia Dortmund vs SC Paderborn 07 | BLV XO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=bdec7a225d261d71f05dbedee95472f7&txTime=6aa4fe12
+https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=ccce184ca0c3f689807aca290647ba25&txTime=6aa50cd6
 
 #EXTINF:-1 tvg-id="socolive-320161-9912131" tvg-name="12/09 20:30 | Borussia Dortmund vs SC Paderborn 07 | CHÍ PHÈO" tvg-logo="https://sta.vnres.co/file/common/20260909/c90ce1103df1c344b5730ef9ca175ec1.png" group-title="Socolive",12/09 20:30 | Borussia Dortmund vs SC Paderborn 07 | CHÍ PHÈO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -566,7 +542,7 @@ https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=b27d317e10ce363251c5
 
 #EXTINF:-1 tvg-id="socolive-320160-603914" tvg-name="12/09 20:30 | FC Augsburg vs Bayer 04 Leverkusen | TRÀ ĐÁ" tvg-logo="https://sta.vnres.co/file/common/20260909/05b7eca7109de85be7e2bde46c05eed5.png" group-title="Socolive",12/09 20:30 | FC Augsburg vs Bayer 04 Leverkusen | TRÀ ĐÁ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789179842-0-0-caebc38ae221922978e870badcd14278
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789183295-0-0-4848ec1c589d2b7d47d9dfe435f09919
 
 #EXTINF:-1 tvg-id="socolive-320160-9912138" tvg-name="12/09 20:30 | FC Augsburg vs Bayer 04 Leverkusen | TUẤN CÙI" tvg-logo="https://sta.vnres.co/file/common/20260909/05b7eca7109de85be7e2bde46c05eed5.png" group-title="Socolive",12/09 20:30 | FC Augsburg vs Bayer 04 Leverkusen | TUẤN CÙI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -590,11 +566,11 @@ https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=f334941d96729c5ae55f
 
 #EXTINF:-1 tvg-id="socolive-320163-619672" tvg-name="12/09 20:30 | TSG Hoffenheim vs VfB Stuttgart | T REX" tvg-logo="https://sta.vnres.co/file/common/20260909/4adf511581089dfbc0c03ae3ec8f9165.png" group-title="Socolive",12/09 20:30 | TSG Hoffenheim vs VfB Stuttgart | T REX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1789179842-0-0-3d56a54fb06c9fcbf2ad9571a1a09a67
+https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1789183622-0-0-061f0772e03d09d9389c56006ea3917a
 
 #EXTINF:-1 tvg-id="socolive-320165-532081" tvg-name="12/09 21:00 | Aston Villa vs Nottingham Forest | BLV ALEX" tvg-logo="https://sta.vnres.co/file/common/20260909/535ba10694d8c96e769c3893d44ad47a.png" group-title="Socolive",12/09 21:00 | Aston Villa vs Nottingham Forest | BLV ALEX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789179902-0-0-14ae7b41ae99bd649b427e5f98f03f71
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789183610-0-0-9bb83890620b4b5d1a0d7605f336a687
 
 #EXTINF:-1 tvg-id="socolive-320165-380460" tvg-name="12/09 21:00 | Aston Villa vs Nottingham Forest | BLV ENZO" tvg-logo="https://sta.vnres.co/file/common/20260909/535ba10694d8c96e769c3893d44ad47a.png" group-title="Socolive",12/09 21:00 | Aston Villa vs Nottingham Forest | BLV ENZO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -602,7 +578,7 @@ https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789162587-0-0-fd64
 
 #EXTINF:-1 tvg-id="socolive-320165-9912141" tvg-name="12/09 21:00 | Aston Villa vs Nottingham Forest | BLV MESSI" tvg-logo="https://sta.vnres.co/file/common/20260909/535ba10694d8c96e769c3893d44ad47a.png" group-title="Socolive",12/09 21:00 | Aston Villa vs Nottingham Forest | BLV MESSI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789179902-0-0-a29fb74314e7f550bd0131e54c6bec22
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789183622-0-0-32de5b48ea2015d11e3c71ee6f691017
 
 #EXTINF:-1 tvg-id="socolive-320165-9912143" tvg-name="12/09 21:00 | Aston Villa vs Nottingham Forest | NGƯỜI CÁ" tvg-logo="https://sta.vnres.co/file/common/20260909/535ba10694d8c96e769c3893d44ad47a.png" group-title="Socolive",12/09 21:00 | Aston Villa vs Nottingham Forest | NGƯỜI CÁ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -626,7 +602,7 @@ https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789149415-0-0-4427
 
 #EXTINF:-1 tvg-id="socolive-320166-9912128" tvg-name="12/09 21:00 | Bournemouth AFC vs Brentford | CACAO" tvg-logo="https://sta.vnres.co/file/common/20260909/9cbacc8ab26215053555adcc8367552b.png" group-title="Socolive",12/09 21:00 | Bournemouth AFC vs Brentford | CACAO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789179842-0-0-0cc262a4301f1b8af657cf1640ded2d2
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789183451-0-0-03ce6846e5b48e11e8eb9f7f1cc820ce
 
 #EXTINF:-1 tvg-id="socolive-320166-622240" tvg-name="12/09 21:00 | Bournemouth AFC vs Brentford | CURRY" tvg-logo="https://sta.vnres.co/file/common/20260909/9cbacc8ab26215053555adcc8367552b.png" group-title="Socolive",12/09 21:00 | Bournemouth AFC vs Brentford | CURRY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -638,7 +614,7 @@ https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=8845e2f80e456c317616
 
 #EXTINF:-1 tvg-id="socolive-320166-552832" tvg-name="12/09 21:00 | Bournemouth AFC vs Brentford | LOGAN" tvg-logo="https://sta.vnres.co/file/common/20260909/9cbacc8ab26215053555adcc8367552b.png" group-title="Socolive",12/09 21:00 | Bournemouth AFC vs Brentford | LOGAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=78ff019a627b0ec4d5c170689fd56882&txTime=6aa44f4e
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=8480bff08abdad7378dc7549aad20f6f&txTime=6aa50cd6
 
 #EXTINF:-1 tvg-id="socolive-320167-9912142" tvg-name="12/09 21:00 | Chelsea vs Hull City | A BỆU" tvg-logo="https://sta.vnres.co/file/common/20260909/c2fc67964990a54d08b12cf7a5925159.png" group-title="Socolive",12/09 21:00 | Chelsea vs Hull City | A BỆU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -646,7 +622,7 @@ https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789142364-0-0-bf4
 
 #EXTINF:-1 tvg-id="socolive-320167-9912091" tvg-name="12/09 21:00 | Chelsea vs Hull City | BLV Củ Cải" tvg-logo="https://sta.vnres.co/file/common/20260909/c2fc67964990a54d08b12cf7a5925159.png" group-title="Socolive",12/09 21:00 | Chelsea vs Hull City | BLV Củ Cải
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789142263-0-0-0c9b2d39c4badc901f54c08f50a83a90
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789183629-0-0-72291869e0faf4ed41c3011991a8ab22
 
 #EXTINF:-1 tvg-id="socolive-320167-9912041" tvg-name="12/09 21:00 | Chelsea vs Hull City | BLV TAP" tvg-logo="https://sta.vnres.co/file/common/20260909/c2fc67964990a54d08b12cf7a5925159.png" group-title="Socolive",12/09 21:00 | Chelsea vs Hull City | BLV TAP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -658,7 +634,7 @@ https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789154986-0-0-ccb3
 
 #EXTINF:-1 tvg-id="socolive-320167-414317" tvg-name="12/09 21:00 | Chelsea vs Hull City | THOMAS" tvg-logo="https://sta.vnres.co/file/common/20260909/c2fc67964990a54d08b12cf7a5925159.png" group-title="Socolive",12/09 21:00 | Chelsea vs Hull City | THOMAS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=3a38562d55fa9b240adf914050660e28&txTime=6aa4fe4e
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=2659737d05895ed4f5c03a1e25bfe16f&txTime=6aa50cd6
 
 #EXTINF:-1 tvg-id="socolive-320167-9912144" tvg-name="12/09 21:00 | Chelsea vs Hull City | TẠ BIÊN GIỚI" tvg-logo="https://sta.vnres.co/file/common/20260909/c2fc67964990a54d08b12cf7a5925159.png" group-title="Socolive",12/09 21:00 | Chelsea vs Hull City | TẠ BIÊN GIỚI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -674,7 +650,7 @@ https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=d0758e7550ed7913084
 
 #EXTINF:-1 tvg-id="socolive-320168-607400" tvg-name="12/09 21:00 | Crystal Palace vs Ipswich Town | HÀ DUY KIÊN" tvg-logo="https://sta.vnres.co/file/common/20260909/33e8f186e09c6a301ee964a58a5d9f67.png" group-title="Socolive",12/09 21:00 | Crystal Palace vs Ipswich Town | HÀ DUY KIÊN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=895a83bcf8dce12788acd3655fd3a2bd&txTime=6aa4fe12
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=3ade83c36c12d2ff4fd2d591d74da4be&txTime=6aa50bd9
 
 #EXTINF:-1 tvg-id="socolive-320168-9912124" tvg-name="12/09 21:00 | Crystal Palace vs Ipswich Town | KENCHU" tvg-logo="https://sta.vnres.co/file/common/20260909/33e8f186e09c6a301ee964a58a5d9f67.png" group-title="Socolive",12/09 21:00 | Crystal Palace vs Ipswich Town | KENCHU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -682,7 +658,7 @@ https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789156542-0-0-b8b
 
 #EXTINF:-1 tvg-id="socolive-320169-9912146" tvg-name="12/09 21:00 | Liverpool vs Fulham | BLV CUỘI" tvg-logo="https://sta.vnres.co/file/common/20260909/ad08ae82413b47973a76a5da73472b58.png" group-title="Socolive",12/09 21:00 | Liverpool vs Fulham | BLV CUỘI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789142230-0-0-b330dc4240aaea7385a4b1340e28d77d
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789183622-0-0-6e47730bbc77628a9b58cb12155d29fe
 
 #EXTINF:-1 tvg-id="socolive-320169-622241" tvg-name="12/09 21:00 | Liverpool vs Fulham | BLV HEHE" tvg-logo="https://sta.vnres.co/file/common/20260909/ad08ae82413b47973a76a5da73472b58.png" group-title="Socolive",12/09 21:00 | Liverpool vs Fulham | BLV HEHE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -690,15 +666,15 @@ https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789158635-0-0-1bc5
 
 #EXTINF:-1 tvg-id="socolive-320169-9912008" tvg-name="12/09 21:00 | Liverpool vs Fulham | BLV TOMIA" tvg-logo="https://sta.vnres.co/file/common/20260909/ad08ae82413b47973a76a5da73472b58.png" group-title="Socolive",12/09 21:00 | Liverpool vs Fulham | BLV TOMIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789179902-0-0-11f763c462f4d14624069ae0e5a0808a
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789183622-0-0-ede6de96cf959e216d2452f5bd632ef5
 
 #EXTINF:-1 tvg-id="socolive-320169-9912110" tvg-name="12/09 21:00 | Liverpool vs Fulham | BLV ZOWIE" tvg-logo="https://sta.vnres.co/file/common/20260909/ad08ae82413b47973a76a5da73472b58.png" group-title="Socolive",12/09 21:00 | Liverpool vs Fulham | BLV ZOWIE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789179902-0-0-c7b05a122faaf13201313531b4d35492
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789183622-0-0-1c0149bc697a7efca76909fc3fff5951
 
 #EXTINF:-1 tvg-id="socolive-320169-387694" tvg-name="12/09 21:00 | Liverpool vs Fulham | CR Bưởi" tvg-logo="https://sta.vnres.co/file/common/20260909/ad08ae82413b47973a76a5da73472b58.png" group-title="Socolive",12/09 21:00 | Liverpool vs Fulham | CR Bưởi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=aeaf9fe71776421b5e779462bee685ae&txTime=6aa4fe4e
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=8b6a9c44db13b03e01bd0beca65a1c39&txTime=6aa50cd6
 
 #EXTINF:-1 tvg-id="socolive-320169-9912145" tvg-name="12/09 21:00 | Liverpool vs Fulham | ZIDANE" tvg-logo="https://sta.vnres.co/file/common/20260909/ad08ae82413b47973a76a5da73472b58.png" group-title="Socolive",12/09 21:00 | Liverpool vs Fulham | ZIDANE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -726,7 +702,7 @@ https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789127336-0-0-ff4
 
 #EXTINF:-1 tvg-id="socolive-320263-9912106" tvg-name="12/09 21:30 | France Women vs Germany Women | BRIAN" tvg-logo="https://sta.vnres.co/file/common/20260911/99217791782a2925278ce2c656809044.png" group-title="Socolive",12/09 21:30 | France Women vs Germany Women | BRIAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789156855-0-0-028fd7f342318f4c885333a4d7a093c1
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789183622-0-0-d583869434f386c1448a1120661d80b3
 
 #EXTINF:-1 tvg-id="socolive-320171-602019" tvg-name="12/09 22:15 | RC Strasbourg Alsace vs AS Monaco | BLV RYO" tvg-logo="https://sta.vnres.co/file/common/20260909/273b10020deeb156ab9c74948bffa0cb.png" group-title="Socolive",12/09 22:15 | RC Strasbourg Alsace vs AS Monaco | BLV RYO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -758,7 +734,7 @@ https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789106882-0-0-0916
 
 #EXTINF:-1 tvg-id="socolive-320173-9912136" tvg-name="12/09 23:00 | Lazio vs AC Milan | BLV LONG" tvg-logo="https://sta.vnres.co/file/common/20260909/21e51f91512cf9e3dadfcdb355f0c85e.png" group-title="Socolive",12/09 23:00 | Lazio vs AC Milan | BLV LONG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=5f961098f135ee50109a96e4143fd1cd&txTime=6aa4fe12
+https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=2657c6ac58f61f6f4acfc2a91e7d76d2&txTime=6aa50cd8
 
 #EXTINF:-1 tvg-id="socolive-320173-304148" tvg-name="12/09 23:00 | Lazio vs AC Milan | BLV LUCAS" tvg-logo="https://sta.vnres.co/file/common/20260909/21e51f91512cf9e3dadfcdb355f0c85e.png" group-title="Socolive",12/09 23:00 | Lazio vs AC Milan | BLV LUCAS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -838,11 +814,11 @@ https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789142364-0-0-bf4
 
 #EXTINF:-1 tvg-id="socolive-320176-9912146" tvg-name="12/09 23:30 | Tottenham Hotspur vs Everton | BLV CUỘI" tvg-logo="https://sta.vnres.co/file/common/20260909/3a8e920b899d0bb948d8721bce6e32d7.png" group-title="Socolive",12/09 23:30 | Tottenham Hotspur vs Everton | BLV CUỘI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789142230-0-0-b330dc4240aaea7385a4b1340e28d77d
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789183622-0-0-6e47730bbc77628a9b58cb12155d29fe
 
 #EXTINF:-1 tvg-id="socolive-320176-387694" tvg-name="12/09 23:30 | Tottenham Hotspur vs Everton | CR Bưởi" tvg-logo="https://sta.vnres.co/file/common/20260909/3a8e920b899d0bb948d8721bce6e32d7.png" group-title="Socolive",12/09 23:30 | Tottenham Hotspur vs Everton | CR Bưởi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=aeaf9fe71776421b5e779462bee685ae&txTime=6aa4fe4e
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=8b6a9c44db13b03e01bd0beca65a1c39&txTime=6aa50cd6
 
 #EXTINF:-1 tvg-id="socolive-320176-9912129" tvg-name="12/09 23:30 | Tottenham Hotspur vs Everton | QUỐC KHÁNH" tvg-logo="https://sta.vnres.co/file/common/20260909/3a8e920b899d0bb948d8721bce6e32d7.png" group-title="Socolive",12/09 23:30 | Tottenham Hotspur vs Everton | QUỐC KHÁNH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -856,18 +832,6 @@ https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789126558-0-0-a04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789151269-0-0-3c68665a396ce3c15fcb642dc991efac
 
-#EXTINF:-1 tvg-name="12/09 05:30 | Racing Louisville (nữ) vs Gotham FC (nữ) | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/1d625fbe06a383f84fd8efec5fafdccc.png" group-title="Vua San Co",12/09 05:30 | Racing Louisville (nữ) vs Gotham FC (nữ) | Nhà Đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://station1-global.ebaclofen.org/live/1f5f6f9af33be4087b09ac67655933d8/playlist.m3u8
-
-#EXTINF:-1 tvg-name="12/09 06:00 | Knoxville troops vs FC Naples | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/92f8175e025874e957d7b124a800c49b.png" group-title="Vua San Co",12/09 06:00 | Knoxville troops vs FC Naples | Nhà Đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://station1-global.ebaclofen.org/live/ab661455446fdfd0f3c641c673912818/playlist.m3u8
-
-#EXTINF:-1 tvg-name="12/09 06:15 | Jaguares de Cordoba vs Fortaleza F.C | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/b7f3a068b301edd82ad4c56496f41063.png" group-title="Vua San Co",12/09 06:15 | Jaguares de Cordoba vs Fortaleza F.C | Nhà Đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://station1-global.ebaclofen.org/live/9c4286e58add5a360cc8c31b13671c93/playlist.m3u8
-
 #EXTINF:-1 tvg-name="12/09 07:00 | Coritiba SAF - PR vs Athletico Paranaense - PR | Doanh Chính" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/4f7a0095b9a3a4756318efd55451badb.png" group-title="Vua San Co",12/09 07:00 | Coritiba SAF - PR vs Athletico Paranaense - PR | Doanh Chính
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://cdn-global.ebaclofen.org/vsc/jonhny6/index.m3u8
@@ -880,13 +844,13 @@ https://station1-global.ebaclofen.org/live/03e982ff0be32d9f5c922f95a537f4f6/play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://station1-global.ebaclofen.org/live/71df598b70e3f96abc1b7d41a087a531/playlist.m3u8
 
-#EXTINF:-1 tvg-name="12/09 07:00 | Kansas City Current (nữ) vs Orlando Pride (nữ) | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/25cde92a237f9418a491eed48437478e.png" group-title="Vua San Co",12/09 07:00 | Kansas City Current (nữ) vs Orlando Pride (nữ) | Nhà Đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://station1-global.ebaclofen.org/live/c0c255af84c95969158e8a891f518e01/playlist.m3u8
-
 #EXTINF:-1 tvg-name="12/09 07:00 | Real Potosi vs Oriente Petrolero | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/eff8641b50533907bfa87b743397f978.png" group-title="Vua San Co",12/09 07:00 | Real Potosi vs Oriente Petrolero | Nhà Đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://station1-global.ebaclofen.org/live/0287f8d6e6a8363f59f3f1edcda8d715/playlist.m3u8
+
+#EXTINF:-1 tvg-name="12/09 07:10 | Kansas City Current (nữ) vs Orlando Pride (nữ) | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/25cde92a237f9418a491eed48437478e.png" group-title="Vua San Co",12/09 07:10 | Kansas City Current (nữ) vs Orlando Pride (nữ) | Nhà Đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://station1-global.ebaclofen.org/live/c0c255af84c95969158e8a891f518e01/playlist.m3u8
 
 #EXTINF:-1 tvg-name="12/09 07:30 | Boca Juniors vs CA Central Cordoba SDE | Nguyễn Huệ" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/dadc7fc58b2f470a8986ee1bee0cccbe.png" group-title="Vua San Co",12/09 07:30 | Boca Juniors vs CA Central Cordoba SDE | Nguyễn Huệ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
@@ -896,33 +860,29 @@ https://cdn1-global.ebaclofen.org/live/pro4/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://station1-global.ebaclofen.org/live/898ef1cc472550f11ef9339d399b8409/playlist.m3u8
 
-#EXTINF:-1 tvg-name="12/09 08:00 | Athletic Club Boise vs New York Cosmos | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/0c1fafa55b2bc6ee9a9c6b9106e37177.png" group-title="Vua San Co",12/09 08:00 | Athletic Club Boise vs New York Cosmos | Nhà Đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://station1-global.ebaclofen.org/live/82a8d2d3191522443f192e5296e05fca/playlist.m3u8
-
-#EXTINF:-1 tvg-name="12/09 08:00 | Correcaminos de la U.A.T. vs Cancun FC | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/45017300c2ad7193a16f5f3aec27bde2.png" group-title="Vua San Co",12/09 08:00 | Correcaminos de la U.A.T. vs Cancun FC | Nhà Đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://station1-global.ebaclofen.org/live/b43dc83aeca25155672ef85d24463857/playlist.m3u8
-
 #EXTINF:-1 tvg-name="12/09 08:00 | Cruz Azul (nữ) vs Unam Pumas (nữ) | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/aa0ed6ea6c5f12ed9a31341a48448a25.png" group-title="Vua San Co",12/09 08:00 | Cruz Azul (nữ) vs Unam Pumas (nữ) | Nhà Đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://station1-global.ebaclofen.org/live/7f3372bcd190e6ebeae8e968b9d13837/playlist.m3u8
 
-#EXTINF:-1 tvg-name="12/09 08:00 | Gimnasia y Tiro vs Tristan Suarez | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/1dcae0ff1f13a4eacf57b5095080fea1.png" group-title="Vua San Co",12/09 08:00 | Gimnasia y Tiro vs Tristan Suarez | Nhà Đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://station1-global.ebaclofen.org/live/7fd7adb5ab045cedad871c1290448b87/playlist.m3u8
-
-#EXTINF:-1 tvg-name="12/09 08:00 | Necaxa vs Puebla | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/05321a8272ff8e7ff2eb7eae2e0b72a6.png" group-title="Vua San Co",12/09 08:00 | Necaxa vs Puebla | Nhà Đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://station1-global.ebaclofen.org/live/d103ecdefe6f0dde9a4b634f1b2a2498/playlist.m3u8
-
-#EXTINF:-1 tvg-name="12/09 08:00 | U16 Quần đảo Cook (nữ) vs U16 New Zealand (nữ) | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/e54d6e5b773da7366ba9cfb9fea8a779.png" group-title="Vua San Co",12/09 08:00 | U16 Quần đảo Cook (nữ) vs U16 New Zealand (nữ) | Nhà Đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://station1-global.ebaclofen.org/live/b9def78d0c1da6f7bf8825eaddd994b3/playlist.m3u8
-
 #EXTINF:-1 tvg-name="12/09 08:00 | Western Suburbs vs Western Springs AFC | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/3568b1ffcf62fc7eb3785b319fd226cf.jpg" group-title="Vua San Co",12/09 08:00 | Western Suburbs vs Western Springs AFC | Nhà Đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://station1-global.ebaclofen.org/live/675209ae6ff5164f35a760caf63664bc/playlist.m3u8
+
+#EXTINF:-1 tvg-name="12/09 08:02 | Correcaminos de la U.A.T. vs Cancun FC | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/45017300c2ad7193a16f5f3aec27bde2.png" group-title="Vua San Co",12/09 08:02 | Correcaminos de la U.A.T. vs Cancun FC | Nhà Đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://station1-global.ebaclofen.org/live/b43dc83aeca25155672ef85d24463857/playlist.m3u8
+
+#EXTINF:-1 tvg-name="12/09 08:02 | Necaxa vs Puebla | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/05321a8272ff8e7ff2eb7eae2e0b72a6.png" group-title="Vua San Co",12/09 08:02 | Necaxa vs Puebla | Nhà Đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://station1-global.ebaclofen.org/live/d103ecdefe6f0dde9a4b634f1b2a2498/playlist.m3u8
+
+#EXTINF:-1 tvg-name="12/09 08:04 | Gimnasia y Tiro vs Tristan Suarez | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/1dcae0ff1f13a4eacf57b5095080fea1.png" group-title="Vua San Co",12/09 08:04 | Gimnasia y Tiro vs Tristan Suarez | Nhà Đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://station1-global.ebaclofen.org/live/7fd7adb5ab045cedad871c1290448b87/playlist.m3u8
+
+#EXTINF:-1 tvg-name="12/09 08:07 | Athletic Club Boise vs New York Cosmos | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/0c1fafa55b2bc6ee9a9c6b9106e37177.png" group-title="Vua San Co",12/09 08:07 | Athletic Club Boise vs New York Cosmos | Nhà Đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://station1-global.ebaclofen.org/live/82a8d2d3191522443f192e5296e05fca/playlist.m3u8
 
 #EXTINF:-1 tvg-name="12/09 08:30 | Independiente Santa Fe vs Deportes Tolima | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/ff980aa75cad49aaa1a39389e41d0a0a.png" group-title="Vua San Co",12/09 08:30 | Independiente Santa Fe vs Deportes Tolima | Nhà Đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
@@ -967,6 +927,10 @@ https://station1-global.ebaclofen.org/live/6f2ae5917d1ebe3f4549a7a72d7b7518/play
 #EXTINF:-1 tvg-name="12/09 12:00 | Nittaidai SMG Yokohama (nữ) vs Viamaterras Miyazaki (nữ) | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/962cfacec42aba388202dc9a143b6e3c.png" group-title="Vua San Co",12/09 12:00 | Nittaidai SMG Yokohama (nữ) vs Viamaterras Miyazaki (nữ) | Nhà Đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://station1-global.ebaclofen.org/live/e878721c2fab8c852f845840fca562cd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="12/09 12:00 | U16 Quần đảo Cook (nữ) vs U16 New Zealand (nữ) | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/e54d6e5b773da7366ba9cfb9fea8a779.png" group-title="Vua San Co",12/09 12:00 | U16 Quần đảo Cook (nữ) vs U16 New Zealand (nữ) | Nhà Đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://station1-global.ebaclofen.org/live/b9def78d0c1da6f7bf8825eaddd994b3/playlist.m3u8
 
 #EXTINF:-1 tvg-name="12/09 13:00 | Ehime FC (nữ) vs VONDS Ichihara (nữ) | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/eb6c3c2a50e60bbad4557e85456d2085.png" group-title="Vua San Co",12/09 13:00 | Ehime FC (nữ) vs VONDS Ichihara (nữ) | Nhà Đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
@@ -1548,10 +1512,6 @@ https://station1-global.ebaclofen.org/live/9c59dab36d0ae0a2534ca107887561f5/play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://station1-global.ebaclofen.org/live/b94ef593309e152bc3a646c712295edb/playlist.m3u8
 
-#EXTINF:-1 tvg-name="12/09 20:00 | AIK vs Vasteras SK FK | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/0cc49f3f48c86ed0c00a31c96962ecf3.png" group-title="Vua San Co",12/09 20:00 | AIK vs Vasteras SK FK | Nhà Đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://station1-global.ebaclofen.org/live/838002092ce9fe4ac9a743fd3cb524b5/playlist.m3u8
-
 #EXTINF:-1 tvg-name="12/09 20:00 | Atalanta U23 vs Pescara | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/af1db7a9e8dd4172b7753db1c951eff0.png" group-title="Vua San Co",12/09 20:00 | Atalanta U23 vs Pescara | Nhà Đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://station1-global.ebaclofen.org/live/d401d5affe144bf695caea0882e52db3/playlist.m3u8
@@ -1571,6 +1531,10 @@ https://station1-global.ebaclofen.org/live/e18d6a691b409ef47781e95b25613b15/play
 #EXTINF:-1 tvg-name="12/09 20:00 | FC Felgueiras vs Penafiel | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/503629cb50e65ea10e315fbf852fc9c5.png" group-title="Vua San Co",12/09 20:00 | FC Felgueiras vs Penafiel | Nhà Đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://station1-global.ebaclofen.org/live/8ef84935d33f0b133842aafa6720cf9b/playlist.m3u8
+
+#EXTINF:-1 tvg-name="12/09 20:00 | FC Iskra Smolensk vs FC Irkutsk | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/39a629f15a13557885b292de4020b4bb.png" group-title="Vua San Co",12/09 20:00 | FC Iskra Smolensk vs FC Irkutsk | Nhà Đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://station1-global.ebaclofen.org/live/e9d5093002b4d2812457cbdb8efab821/playlist.m3u8
 
 #EXTINF:-1 tvg-name="12/09 20:00 | FC Rosengard (nữ) vs IK Uppsala (nữ) | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/2dd2468e02e71821f2f40c3ece2d96e3.png" group-title="Vua San Co",12/09 20:00 | FC Rosengard (nữ) vs IK Uppsala (nữ) | Nhà Đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
@@ -1656,69 +1620,9 @@ https://station1-global.ebaclofen.org/live/0a9b2fa53c220fcf9a397e0dbb7f6dce/play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://station1-global.ebaclofen.org/live/d3936ec3fecb403a1e4f318302152ae4/playlist.m3u8
 
-#EXTINF:-1 tvg-name="12/09 20:15 | Zenit St. Petersburg vs Lokomotiv Moscow | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/19d5361bfdffa4bfc2f936cbb65fd317.png" group-title="Vua San Co",12/09 20:15 | Zenit St. Petersburg vs Lokomotiv Moscow | Nhà Đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://station1-global.ebaclofen.org/live/3c0319c11519d4252dabf92874605e27/playlist.m3u8
-
-#EXTINF:-1 tvg-name="12/09 20:30 | 1. FSV Mainz 05 vs Eintracht Frankfurt | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/25df2ab8d6c975b4218480a23ace9285.png" group-title="Vua San Co",12/09 20:30 | 1. FSV Mainz 05 vs Eintracht Frankfurt | Nhà Đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://station1-global.ebaclofen.org/live/234aedab955e75c20341669d041ed7ce/playlist.m3u8
-
-#EXTINF:-1 tvg-name="12/09 20:30 | 1. FSV Mainz 05 vs Eintracht Frankfurt | Tào Phi" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/25df2ab8d6c975b4218480a23ace9285.png" group-title="Vua San Co",12/09 20:30 | 1. FSV Mainz 05 vs Eintracht Frankfurt | Tào Phi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cdn1-global.ebaclofen.org/live/pro1/index.m3u8
-
-#EXTINF:-1 tvg-name="12/09 20:30 | Borussia Dortmund vs SC Paderborn 07 | Ngô Quyền" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/bbfacbdbe67705172c6414d7e9c21b58.png" group-title="Vua San Co",12/09 20:30 | Borussia Dortmund vs SC Paderborn 07 | Ngô Quyền
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
-
-#EXTINF:-1 tvg-name="12/09 20:30 | Borussia Dortmund vs SC Paderborn 07 | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/bbfacbdbe67705172c6414d7e9c21b58.png" group-title="Vua San Co",12/09 20:30 | Borussia Dortmund vs SC Paderborn 07 | Nhà Đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://station1-global.ebaclofen.org/live/936079e84924e319a285bfa565cca0a2/playlist.m3u8
-
-#EXTINF:-1 tvg-name="12/09 20:30 | Chrobry Glogow vs Pogon Siedlce | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/79563832a484e7218eea280bc773add4.png" group-title="Vua San Co",12/09 20:30 | Chrobry Glogow vs Pogon Siedlce | Nhà Đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://station1-global.ebaclofen.org/live/33e9729d7265517c0c9d61df1525f9c0/playlist.m3u8
-
-#EXTINF:-1 tvg-name="12/09 20:30 | FC Augsburg vs Bayer 04 Leverkusen | Lê Hoàn" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/db4411a3c4ce1d0f092f5b9d1df08664.png" group-title="Vua San Co",12/09 20:30 | FC Augsburg vs Bayer 04 Leverkusen | Lê Hoàn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
-
-#EXTINF:-1 tvg-name="12/09 20:30 | FC Augsburg vs Bayer 04 Leverkusen | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/db4411a3c4ce1d0f092f5b9d1df08664.png" group-title="Vua San Co",12/09 20:30 | FC Augsburg vs Bayer 04 Leverkusen | Nhà Đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://station1-global.ebaclofen.org/live/dad402b050e4a8d67adff10b50d54403/playlist.m3u8
-
-#EXTINF:-1 tvg-name="12/09 20:30 | Ruch Chorzow vs Podbeskidzie Bielsko-Biala | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/1f7ff6cd75b881208e1252b83ec607de.png" group-title="Vua San Co",12/09 20:30 | Ruch Chorzow vs Podbeskidzie Bielsko-Biala | Nhà Đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://station1-global.ebaclofen.org/live/500553d411679ef53a2e0c54bf92124f/playlist.m3u8
-
-#EXTINF:-1 tvg-name="12/09 20:30 | SV Austria Salzburg vs SK Sturm Graz II | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/09e03e1250825780683cadcc636bbcb8.png" group-title="Vua San Co",12/09 20:30 | SV Austria Salzburg vs SK Sturm Graz II | Nhà Đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://station1-global.ebaclofen.org/live/e6291288c80f04e685fc18f0a21f538c/playlist.m3u8
-
-#EXTINF:-1 tvg-name="12/09 20:30 | TSG Hoffenheim vs VfB Stuttgart | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/72ab7862a610b350aef7650ec0e06e06.png" group-title="Vua San Co",12/09 20:30 | TSG Hoffenheim vs VfB Stuttgart | Nhà Đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://station1-global.ebaclofen.org/live/8506ce8aa479c4f6fcd487eacffefd15/playlist.m3u8
-
-#EXTINF:-1 tvg-name="12/09 20:30 | Warta Poznan vs Arka Gdynia | Nhà Đài" tvg-logo="https://thesport-api.cdnx.tech/assets/img/football/team/34417cae92ffebdf1fc8ff272b91d26b.png" group-title="Vua San Co",12/09 20:30 | Warta Poznan vs Arka Gdynia | Nhà Đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://station1-global.ebaclofen.org/live/03ced07bd16be747ffe592be36364f8f/playlist.m3u8
-
 #EXTINF:-1 tvg-name="12/09 06:00 | Frances Tiafoe vs Ben Shelton | Mù" tvg-logo="https://static.flashscore.com/res/image/data/A3X3wNil-AJjcvBgm.png" group-title="Gio Vang",12/09 06:00 | Frances Tiafoe vs Ben Shelton | Mù
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 https://eqr2hdarxfliv.vcdn.cloud/1789138848_hd/1789138848_hd@720p.m3u8
-
-#EXTINF:-1 tvg-name="12/09 06:05 | New York Yankees vs New York Mets | Cầy" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/kNiURsT2QKUI_jwkbgwPaw_96x96.png" group-title="Gio Vang",12/09 06:05 | New York Yankees vs New York Mets | Cầy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://eqr2hdarxfliv.vcdn.cloud/1789138990_hd/1789138990_hd@720p.m3u8
-
-#EXTINF:-1 tvg-name="12/09 06:10 | Miami Marlins vs Los Angeles Dodgers | Cận" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/3ZzeHGeahHzcx1nnzkf_4w_96x96.png" group-title="Gio Vang",12/09 06:10 | Miami Marlins vs Los Angeles Dodgers | Cận
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://eqr2hdarxfliv.vcdn.cloud/1789139052_hd/1789139052_hd@720p.m3u8
-
-#EXTINF:-1 tvg-name="12/09 07:00 | Coritiba (PR) vs Atletico Paranaense | Ngọng" tvg-logo="https://images.keovip88.net/images/teams/coritiba-pr.png" group-title="Gio Vang",12/09 07:00 | Coritiba (PR) vs Atletico Paranaense | Ngọng
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://eqr2hdarxfliv.vcdn.cloud/1789169310_hd/1789169310_hd@720p.m3u8
 
 #EXTINF:-1 tvg-name="12/09 08:00 | Chinese Taipei vs Iran | Vịt" tvg-logo="https://static.flashscore.com/res/image/data/xjrSUIEG-251yRjVj.png" group-title="Gio Vang",12/09 08:00 | Chinese Taipei vs Iran | Vịt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -1756,6 +1660,10 @@ https://eqr2hdarxfliv.vcdn.cloud/1789169563_hd/1789169563_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 https://eqr2hdarxfliv.vcdn.cloud/1789141836_hd/1789141836_hd@720p.m3u8
 
+#EXTINF:-1 tvg-name="12/09 13:00 | Legacy vs MIBR | Mickey" tvg-logo="https://static.flashscore.com/res/image/data/vJYZUiDa-rHAHYj7n.png" group-title="Gio Vang",12/09 13:00 | Legacy vs MIBR | Mickey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+https://eqr2hdarxfliv.vcdn.cloud/1789178933_hd/1789178933_hd@720p.m3u8
+
 #EXTINF:-1 tvg-name="12/09 13:30 | Iran vs Úc | Cận" tvg-logo="https://static.flashscore.com/res/image/data/CA3yhoGG-KMidKLjl.png" group-title="Gio Vang",12/09 13:30 | Iran vs Úc | Cận
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 https://eqr2hdarxfliv.vcdn.cloud/1789141978_hd/1789141978_hd@720p.m3u8
@@ -1763,10 +1671,6 @@ https://eqr2hdarxfliv.vcdn.cloud/1789141978_hd/1789141978_hd@720p.m3u8
 #EXTINF:-1 tvg-name="12/09 14:00 | Bahrain vs China | Tôm" tvg-logo="https://static.flashscore.com/res/image/data/hpXfxhzB-2ybyvrpo.png" group-title="Gio Vang",12/09 14:00 | Bahrain vs China | Tôm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 https://eqr2hdarxfliv.vcdn.cloud/1789142375_hd/1789142375_hd@720p.m3u8
-
-#EXTINF:-1 tvg-name="12/09 14:30 | Bucheon FC 1995 vs Jeju United FC | Mù" tvg-logo="https://images.keovip88.net/images/teams/bucheon-fc-1995.png" group-title="Gio Vang",12/09 14:30 | Bucheon FC 1995 vs Jeju United FC | Mù
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://eqr2hdarxfliv.vcdn.cloud/1789142689_hd/1789142689_hd@720p.m3u8
 
 #EXTINF:-1 tvg-name="12/09 14:30 | Jeonbuk Hyundai Motors vs FC Seoul | Bón" tvg-logo="https://images.keovip88.net/images/teams/jeonbuk-hyundai-motors.png" group-title="Gio Vang",12/09 14:30 | Jeonbuk Hyundai Motors vs FC Seoul | Bón
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -1995,14 +1899,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MzI2OTY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om5
 #EXTINF:-1 tvg-id="biaom-m4nmk3z5vl5pgalexqmpgmpk" tvg-name="13/09 02:00 | Sunderland vs Arsenal | ASAHI" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sunderland-3" group-title="Biaom TV",13/09 02:00 | Sunderland vs Arsenal | ASAHI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 https://cdnhls.xbdbotv.live/live/MTk3MjIxNjU6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Om00bm1rM3o1dmw1cGdhbGV4cW1wZ21waw/index.m3u8
-
-#EXTINF:-1 tvg-name="12/09 07:00 | Coritiba vs Athletico-PR | Source 1" tvg-logo="https://img.gvapi.cc/football/team/4f7a0095b9a3a4756318efd55451badb.png!w80" group-title="Cola TV",12/09 07:00 | Coritiba vs Athletico-PR | Source 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://live05.meung.app/live/16226575.m3u8
-
-#EXTINF:-1 tvg-name="12/09 07:30 | Boca Juniors vs Central Cordoba SDE | Source 1" tvg-logo="https://img.gvapi.cc/football/team/9ed2c4f6adc51975cdbd2a93093e6a43.png!w80" group-title="Cola TV",12/09 07:30 | Boca Juniors vs Central Cordoba SDE | Source 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://live05.meung.app/live/41943555.m3u8
 
 #EXTINF:-1 tvg-name="12/09 08:00 | Necaxa vs CLB Puebla | Source 1" tvg-logo="https://img.gvapi.cc/football/team/05321a8272ff8e7ff2eb7eae2e0b72a6.png!w80" group-title="Cola TV",12/09 08:00 | Necaxa vs CLB Puebla | Source 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -2308,280 +2204,278 @@ https://live05.meung.app/live/82054853.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 https://live05.meung.app/live/14707124.m3u8
 
-#EXTINF:-1 tvg-name="12/09 07:00 | Coritiba vs Atl Paranaense | XMEN | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghoenr6od/image/small" group-title="Xoilac",12/09 07:00 | Coritiba vs Atl Paranaense | XMEN | FULL HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001789176567-0-0-51479d563638c67262406db83eea3852
+#EXTINF:-1 tvg-name="13/09 08:30 | Real Salt Lake vs New York City | Source 1" tvg-logo="https://img.gvapi.cc/football/team/98a89cba4bbd10c0ceb437d8f795d43b.png!w80" group-title="Cola TV",13/09 08:30 | Real Salt Lake vs New York City | Source 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+https://live05.meung.app/live/16226575.m3u8
 
-#EXTINF:-1 tvg-name="12/09 07:30 | Boca Juniors vs Central Cordoba Sde | JEAN | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4hj31q0j6/image/small" group-title="Xoilac",12/09 07:30 | Boca Juniors vs Central Cordoba Sde | JEAN | FULL HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001789176568-0-0-767d6566351171d514380c3e6c829f88
+#EXTINF:-1 tvg-name="13/09 09:30 | San Jose Earthquakes vs Houston Dynamo | Source 1" tvg-logo="https://img.gvapi.cc/football/team/7079d708b4e391c0c26b20da7b2fb32c.png!w80" group-title="Cola TV",13/09 09:30 | San Jose Earthquakes vs Houston Dynamo | Source 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+https://live05.meung.app/live/59444581.m3u8
 
 #EXTINF:-1 tvg-name="12/09 08:00 | Correcaminos De La U A T vs Cancun Fc | OLER | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4h8j4oq86p/image/small" group-title="Xoilac",12/09 08:00 | Correcaminos De La U A T vs Cancun Fc | OLER | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001789176568-0-0-a0cda5eeb112fd3eb8a33bafb52b3c4f
+https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001789180335-0-0-4b910ef6144ebadbc79039538b6c23b9
 
 #EXTINF:-1 tvg-name="12/09 08:00 | Necaxa vs Puebla | HIRO | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4h8d52q86p/image/small" group-title="Xoilac",12/09 08:00 | Necaxa vs Puebla | HIRO | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001789176568-0-0-50115a39020df4e822dc7c89448320ea
+https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001789180335-0-0-53a8caba841a644b98fea3eccef8ed1c
 
 #EXTINF:-1 tvg-name="12/09 08:00 | Nu Cruz Azul vs Nu Unam Pumas | TONI | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlh9poxryk0/image/small" group-title="Xoilac",12/09 08:00 | Nu Cruz Azul vs Nu Unam Pumas | TONI | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001789176568-0-0-aba3341abae163a6a60cf02fdd1fb80f
+https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001789180335-0-0-0c59c5cd4ce36221de36b4ad398747c9
 
 #EXTINF:-1 tvg-name="12/09 10:00 | Atlante Fc vs Pachuca | NEMO | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kdj2ryoh07wq1zp/image/small" group-title="Xoilac",12/09 10:00 | Atlante Fc vs Pachuca | NEMO | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001789176569-0-0-7b154e459883a87b1169a46041e89704
+https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001789180336-0-0-4d98c48aba8fd0d03d10d5abf68509be
 
 #EXTINF:-1 tvg-name="12/09 10:00 | Club Tijuana vs Queretaro Fc | RAVEN | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhg9j2ryk0/image/small" group-title="Xoilac",12/09 10:00 | Club Tijuana vs Queretaro Fc | RAVEN | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001789176569-0-0-c6b36c9cda92838108b2ad1e4942dbc9
+https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001789180336-0-0-b89c2f0490f8d35d0937cfefbc87e374
 
 #EXTINF:-1 tvg-name="12/09 10:06 | Nu Atlas vs Nu Atlante | BEE | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hjjwzqdyj/image/small" group-title="Xoilac",12/09 10:06 | Nu Atlas vs Nu Atlante | BEE | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001789176570-0-0-b4d9a18a2964a64b9d5ec3ffb859bd40
+https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001789180336-0-0-7363b9c36627720a230c624e25f67c6e
 
 #EXTINF:-1 tvg-name="12/09 12:00 | Nu Essendon Royals vs Nu Avondale Fc | KEN | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/318q66hjojxqo9j/image/small" group-title="Xoilac",12/09 12:00 | Nu Essendon Royals vs Nu Avondale Fc | KEN | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001789176571-0-0-439fcbcd146e5909800c05864f95a57c
+https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001789180336-0-0-0abd8903aa4fed15bc22cf0126ba85e8
 
 #EXTINF:-1 tvg-name="12/09 13:30 | Nu G Coast Knights vs Nu Eastern Suburbs | XMEN | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8ghpwxzr6od/image/small" group-title="Xoilac",12/09 13:30 | Nu G Coast Knights vs Nu Eastern Suburbs | XMEN | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001789176567-0-0-51479d563638c67262406db83eea3852
+https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001789180336-0-0-a1a13c8e9d784f35db95fa2b7a3b8cee
 
 #EXTINF:-1 tvg-name="12/09 14:00 | Maharlika vs Dynamic Herb Cebu | RAVEN | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/zp5rzghp129q82w/image/small" group-title="Xoilac",12/09 14:00 | Maharlika vs Dynamic Herb Cebu | RAVEN | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001789176569-0-0-c6b36c9cda92838108b2ad1e4942dbc9
+https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001789180336-0-0-b89c2f0490f8d35d0937cfefbc87e374
 
 #EXTINF:-1 tvg-name="12/09 14:30 | Bucheon 1995 vs Jeju Sk Fc | MAX | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/318q66hogyeqo9j/image/small" group-title="Xoilac",12/09 14:30 | Bucheon 1995 vs Jeju Sk Fc | MAX | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001789176574-0-0-9f0e808fbd28a046f27a442670df1962
+https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001789180337-0-0-67873bab6bb17b097217cff0ec049927
 
 #EXTINF:-1 tvg-name="12/09 14:30 | Daegu Fc vs Yongin Fc | FILIP | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hdg5rz84/image/small" group-title="Xoilac",12/09 14:30 | Daegu Fc vs Yongin Fc | FILIP | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001789176574-0-0-fd2c284e8e098e821a32968e82a6d417
+https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001789180337-0-0-8364debda68852cb57d2d2c56dc93e1e
 
 #EXTINF:-1 tvg-name="12/09 14:30 | Jeonbuk Hyundai vs Seoul Fc | NICK | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekhd42repz/image/small" group-title="Xoilac",12/09 14:30 | Jeonbuk Hyundai vs Seoul Fc | NICK | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001789176572-0-0-002fe4a22bd497e65fc41158531059cc
+https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001789180337-0-0-e1961ef40247133e38b71e8d8e502db4
 
 #EXTINF:-1 tvg-name="12/09 14:30 | Seoul E Land Fc vs Suwon Samsung | FELIX | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/zp5rzgh700pq82w/image/small" group-title="Xoilac",12/09 14:30 | Seoul E Land Fc vs Suwon Samsung | FELIX | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001789176575-0-0-556dd19afb3ed58934cb9d9e543ec7ac
+https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001789180338-0-0-af9f1fa36a99df2d6f31c64cec2e245b
 
 #EXTINF:-1 tvg-name="12/09 14:30 | Ulsan Hyundai vs Incheon United | ROY | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekh49zrepz/image/small" group-title="Xoilac",12/09 14:30 | Ulsan Hyundai vs Incheon United | ROY | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001789176572-0-0-98fc10fc2b7792e8c8bf738d2c2b2771
+https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001789180337-0-0-ef27ffbaed23ec164abd12444fbfa55d
 
 #EXTINF:-1 tvg-name="12/09 15:15 | Hume City vs Avondale Fc | ZANE | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn5ldr510/image/small" group-title="Xoilac",12/09 15:15 | Hume City vs Avondale Fc | ZANE | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001789176576-0-0-bf9a8d08b3386927873aac52e43206a2
+https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001789180338-0-0-703404d9a2a88ef087aeaaa09171fdd1
 
 #EXTINF:-1 tvg-name="12/09 15:30 | Lam Dong vs Ba Ria Vung Tau | RIO | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8ghg9nkr6od/image/small" group-title="Xoilac",12/09 15:30 | Lam Dong vs Ba Ria Vung Tau | RIO | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001789176576-0-0-d7684f6f53b4cdc955d5bc636dd89015
+https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001789180338-0-0-c1ac1d8d48eb5580353143df3d2700ce
 
 #EXTINF:-1 tvg-name="12/09 15:30 | Persija Jakarta vs Persib Bandung | TOM | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergpho7p8r8k0/image/small" group-title="Xoilac",12/09 15:30 | Persija Jakarta vs Persib Bandung | TOM | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001789176576-0-0-76a2812fd02c7272492e8af7b3f80897
+https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001789180338-0-0-c2ab1a2b4be60573fd9a8e0eca814158
 
 #EXTINF:-1 tvg-name="12/09 15:30 | Pss Sleman vs Madura United | HIRO | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergph3lnzr8k0/image/small" group-title="Xoilac",12/09 15:30 | Pss Sleman vs Madura United | HIRO | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001789176568-0-0-50115a39020df4e822dc7c89448320ea
+https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001789180335-0-0-53a8caba841a644b98fea3eccef8ed1c
 
 #EXTINF:-1 tvg-name="12/09 16:00 | Blaublitz Akita vs Tokushima Vortis | OLER | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekhvk9krepz/image/small" group-title="Xoilac",12/09 16:00 | Blaublitz Akita vs Tokushima Vortis | OLER | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001789176568-0-0-a0cda5eeb112fd3eb8a33bafb52b3c4f
+https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001789180335-0-0-4b910ef6144ebadbc79039538b6c23b9
 
 #EXTINF:-1 tvg-name="12/09 16:00 | Iwaki Fc vs Yokohama Fc | LOGAN | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhgjg7ryk0/image/small" group-title="Xoilac",12/09 16:00 | Iwaki Fc vs Yokohama Fc | LOGAN | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-23.flv?auth_key=3000001789176578-0-0-edfbcbd886860d2d3be6f0414ed8575e
+https://live2.domaincdn.cc/livecdn/channel-23.flv?auth_key=3000001789180339-0-0-bd42860c6e526aafb320fc25097c3efa
 
 #EXTINF:-1 tvg-name="12/09 16:00 | Mito Hollyhock vs Kawasaki Frontale | TONI | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/23xmvkh3dg6qg8n/image/small" group-title="Xoilac",12/09 16:00 | Mito Hollyhock vs Kawasaki Frontale | TONI | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001789176568-0-0-aba3341abae163a6a60cf02fdd1fb80f
+https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001789180335-0-0-0c59c5cd4ce36221de36b4ad398747c9
 
 #EXTINF:-1 tvg-name="12/09 16:30 | Kataller Toyama vs Tochigi City | POLO | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn550r510/image/small" group-title="Xoilac",12/09 16:30 | Kataller Toyama vs Tochigi City | POLO | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001789176578-0-0-bc891e1082b1b4eabbd406ff7922e3be
+https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001789180339-0-0-c7aa2c294cb86804e8e89cac01207042
 
 #EXTINF:-1 tvg-name="12/09 16:30 | Shimizu S Pulse vs Avispa Fukuoka | XMEN | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l965mkyh9j9r1ge/image/small" group-title="Xoilac",12/09 16:30 | Shimizu S Pulse vs Avispa Fukuoka | XMEN | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001789176567-0-0-51479d563638c67262406db83eea3852
+https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001789180336-0-0-a1a13c8e9d784f35db95fa2b7a3b8cee
 
 #EXTINF:-1 tvg-name="12/09 17:00 | Chungnam Asan vs Cheongju Fc | BEE | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/x7lm7phwgelm2wd/image/small" group-title="Xoilac",12/09 17:00 | Chungnam Asan vs Cheongju Fc | BEE | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001789176570-0-0-b4d9a18a2964a64b9d5ec3ffb859bd40
+https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001789180336-0-0-7363b9c36627720a230c624e25f67c6e
 
 #EXTINF:-1 tvg-name="12/09 17:00 | Daejeon Hana Citizen vs Pohang Steelers | BRADY | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l965mkyhx4jr1ge/image/small" group-title="Xoilac",12/09 17:00 | Daejeon Hana Citizen vs Pohang Steelers | BRADY | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001789176581-0-0-043afb7d2e92355b6418ac9643e53f42
+https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001789180340-0-0-f8911b4062614ac852874815353c9f7a
 
 #EXTINF:-1 tvg-name="12/09 17:00 | Gamba Osaka vs Fc Tokyo | KEN | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlhwxnryk0/image/small" group-title="Xoilac",12/09 17:00 | Gamba Osaka vs Fc Tokyo | KEN | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001789176571-0-0-439fcbcd146e5909800c05864f95a57c
+https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001789180336-0-0-0abd8903aa4fed15bc22cf0126ba85e8
 
 #EXTINF:-1 tvg-name="12/09 17:00 | Machida Zelvia vs Yokohama Marinos | JOHAN | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/318q66hoe05qo9j/image/small" group-title="Xoilac",12/09 17:00 | Machida Zelvia vs Yokohama Marinos | JOHAN | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001789176579-0-0-c59754ca6045bc6bc56dd33334c06716
+https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001789180340-0-0-0d0aa20ad962eac937bcc2c205e61e28
 
 #EXTINF:-1 tvg-name="12/09 17:00 | Sanfrecce Hiroshima vs Cerezo Osaka | JEAN | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9dn1m1ghdp1moep/image/small" group-title="Xoilac",12/09 17:00 | Sanfrecce Hiroshima vs Cerezo Osaka | JEAN | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001789176568-0-0-767d6566351171d514380c3e6c829f88
+https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001789180339-0-0-e5701613f9f899316847b7ca4cf68281
 
 #EXTINF:-1 tvg-name="12/09 17:00 | Than Quang Ninh vs Hung Yen | NEMO | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlh6nkryk0/image/small" group-title="Xoilac",12/09 17:00 | Than Quang Ninh vs Hung Yen | NEMO | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001789176569-0-0-7b154e459883a87b1169a46041e89704
+https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001789180336-0-0-4d98c48aba8fd0d03d10d5abf68509be
 
 #EXTINF:-1 tvg-name="12/09 17:00 | V Varen Nagasaki vs Nagoya Grampus | SILVA | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekh9zj1repz/image/small" group-title="Xoilac",12/09 17:00 | V Varen Nagasaki vs Nagoya Grampus | SILVA | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-20.flv?auth_key=3000001789176579-0-0-ebf248ffa933c5c9c9c839adb71160de
+https://live2.domaincdn.cc/livecdn/channel-20.flv?auth_key=3000001789180340-0-0-f1c301caadc9744ee25f59782478687b
 
 #EXTINF:-1 tvg-name="12/09 18:00 | E Braunschweig vs Dynamo Dresden | HIRO | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4hjwvq0j6/image/small" group-title="Xoilac",12/09 18:00 | E Braunschweig vs Dynamo Dresden | HIRO | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001789176568-0-0-50115a39020df4e822dc7c89448320ea
+https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001789180335-0-0-53a8caba841a644b98fea3eccef8ed1c
 
 #EXTINF:-1 tvg-name="12/09 18:00 | Fakel vs Baltika Kaliningrad | FILIP | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekhk4yrepz/image/small" group-title="Xoilac",12/09 18:00 | Fakel vs Baltika Kaliningrad | FILIP | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001789176574-0-0-fd2c284e8e098e821a32968e82a6d417
+https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001789180337-0-0-8364debda68852cb57d2d2c56dc93e1e
 
 #EXTINF:-1 tvg-name="12/09 18:00 | Fc Magdeburg vs Kaiserslautern | RAVEN | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jednm9wh1w6ryox/image/small" group-title="Xoilac",12/09 18:00 | Fc Magdeburg vs Kaiserslautern | RAVEN | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001789176569-0-0-c6b36c9cda92838108b2ad1e4942dbc9
+https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001789180336-0-0-b89c2f0490f8d35d0937cfefbc87e374
 
 #EXTINF:-1 tvg-name="12/09 18:00 | Sisaket United vs Ayutthaya United | ZANE | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nh5e0pmd7o/image/small" group-title="Xoilac",12/09 18:00 | Sisaket United vs Ayutthaya United | ZANE | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001789176576-0-0-bf9a8d08b3386927873aac52e43206a2
+https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001789180338-0-0-703404d9a2a88ef087aeaaa09171fdd1
 
 #EXTINF:-1 tvg-name="12/09 18:00 | Vfl Bochum vs Greuther Furth | NICK | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kn54qllhy10qvy9/image/small" group-title="Xoilac",12/09 18:00 | Vfl Bochum vs Greuther Furth | NICK | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001789176572-0-0-002fe4a22bd497e65fc41158531059cc
+https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001789180337-0-0-e1961ef40247133e38b71e8d8e502db4
 
 #EXTINF:-1 tvg-name="12/09 18:30 | Bolton Wanderers vs Cardiff City | FELIX | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhp2vm7vx/image/small" group-title="Xoilac",12/09 18:30 | Bolton Wanderers vs Cardiff City | FELIX | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001789176575-0-0-556dd19afb3ed58934cb9d9e543ec7ac
+https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001789180338-0-0-af9f1fa36a99df2d6f31c64cec2e245b
 
 #EXTINF:-1 tvg-name="12/09 18:30 | Derby County vs Birmingham City | ASTRA | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1h8wjmojx/image/small" group-title="Xoilac",12/09 18:30 | Derby County vs Birmingham City | ASTRA | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001789176583-0-0-8b64175a06868a55d7bdc1d946a3ed6f
+https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001789180341-0-0-33fe3493c8eb4843a0e306d1d7805033
 
 #EXTINF:-1 tvg-name="12/09 18:30 | Uthai Thani vs Pattani | RIO | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/ednm9wh9gnxryox/image/small" group-title="Xoilac",12/09 18:30 | Uthai Thani vs Pattani | RIO | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001789176576-0-0-d7684f6f53b4cdc955d5bc636dd89015
+https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001789180338-0-0-c1ac1d8d48eb5580353143df3d2700ce
 
 #EXTINF:-1 tvg-name="12/09 18:30 | West Brom vs Qpr | MAX | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/d23xmvkhzwnqg8n/image/small" group-title="Xoilac",12/09 18:30 | West Brom vs Qpr | MAX | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001789176574-0-0-9f0e808fbd28a046f27a442670df1962
+https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001789180337-0-0-67873bab6bb17b097217cff0ec049927
 
 #EXTINF:-1 tvg-name="12/09 19:00 | Bali United vs Isenmulang Kalteng | OLER | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1ghe757moep/image/small" group-title="Xoilac",12/09 19:00 | Bali United vs Isenmulang Kalteng | OLER | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001789176568-0-0-a0cda5eeb112fd3eb8a33bafb52b3c4f
+https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001789180335-0-0-4b910ef6144ebadbc79039538b6c23b9
 
 #EXTINF:-1 tvg-name="12/09 19:00 | Racing Santander vs Alaves | TOM | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kdj2ryoh33zq1zp/image/small" group-title="Xoilac",12/09 19:00 | Racing Santander vs Alaves | TOM | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001789176576-0-0-76a2812fd02c7272492e8af7b3f80897
+https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001789180338-0-0-c2ab1a2b4be60573fd9a8e0eca814158
 
 #EXTINF:-1 tvg-name="12/09 19:15 | Ha Noi Fc vs Song Lam Nghe An | XMEN | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1ghen9wmoep/image/small" group-title="Xoilac",12/09 19:15 | Ha Noi Fc vs Song Lam Nghe An | XMEN | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001789176567-0-0-51479d563638c67262406db83eea3852
+https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001789180336-0-0-a1a13c8e9d784f35db95fa2b7a3b8cee
 
 #EXTINF:-1 tvg-name="12/09 20:00 | Genoa vs Frosinone | SILVA | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhkkzqwzv/image/small" group-title="Xoilac",12/09 20:00 | Genoa vs Frosinone | SILVA | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-20.flv?auth_key=3000001789176579-0-0-ebf248ffa933c5c9c9c839adb71160de
+https://live2.domaincdn.cc/livecdn/channel-20.flv?auth_key=3000001789180340-0-0-f1c301caadc9744ee25f59782478687b
 
 #EXTINF:-1 tvg-name="12/09 20:15 | Zenit St Petersburg vs Lokomotiv Moscow | LOGAN | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpnxm7vx/image/small" group-title="Xoilac",12/09 20:15 | Zenit St Petersburg vs Lokomotiv Moscow | LOGAN | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-23.flv?auth_key=3000001789176578-0-0-edfbcbd886860d2d3be6f0414ed8575e
+https://live2.domaincdn.cc/livecdn/channel-23.flv?auth_key=3000001789180339-0-0-bd42860c6e526aafb320fc25097c3efa
 
 #EXTINF:-1 tvg-name="12/09 20:30 | Augsburg vs Bayer Leverkusen | RAVEN | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vl7oqdehzvnr510/image/small" group-title="Xoilac",12/09 20:30 | Augsburg vs Bayer Leverkusen | RAVEN | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001789176569-0-0-c6b36c9cda92838108b2ad1e4942dbc9
+https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001789180336-0-0-b89c2f0490f8d35d0937cfefbc87e374
 
 #EXTINF:-1 tvg-name="12/09 20:30 | Dortmund vs Paderborn 07 | JOHAN | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghe4nq82w/image/small" group-title="Xoilac",12/09 20:30 | Dortmund vs Paderborn 07 | JOHAN | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001789176579-0-0-c59754ca6045bc6bc56dd33334c06716
+https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001789180340-0-0-0d0aa20ad962eac937bcc2c205e61e28
 
 #EXTINF:-1 tvg-name="12/09 20:30 | Mainz 05 vs Eintracht Frankfurt | HIRO | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jednm9whl2kryox/image/small" group-title="Xoilac",12/09 20:30 | Mainz 05 vs Eintracht Frankfurt | HIRO | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001789176568-0-0-50115a39020df4e822dc7c89448320ea
+https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001789180335-0-0-53a8caba841a644b98fea3eccef8ed1c
 
 #EXTINF:-1 tvg-name="12/09 20:30 | Sc Freiburg vs B Monchengladbach | POLO | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l965mkyh924r1ge/image/small" group-title="Xoilac",12/09 20:30 | Sc Freiburg vs B Monchengladbach | POLO | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001789176578-0-0-bc891e1082b1b4eabbd406ff7922e3be
+https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001789180339-0-0-c7aa2c294cb86804e8e89cac01207042
 
 #EXTINF:-1 tvg-name="12/09 20:30 | Tsg Hoffenheim vs Vfb Stuttgart | JEAN | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kdj2ryoh3wyq1zp/image/small" group-title="Xoilac",12/09 20:30 | Tsg Hoffenheim vs Vfb Stuttgart | JEAN | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001789176568-0-0-767d6566351171d514380c3e6c829f88
+https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001789180339-0-0-e5701613f9f899316847b7ca4cf68281
 
 #EXTINF:-1 tvg-name="12/09 21:00 | Afc Bournemouth vs Brentford | ASTRA | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9dn1m1ghdlpmoep/image/small" group-title="Xoilac",12/09 21:00 | Afc Bournemouth vs Brentford | ASTRA | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001789176583-0-0-8b64175a06868a55d7bdc1d946a3ed6f
+https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001789180341-0-0-33fe3493c8eb4843a0e306d1d7805033
 
 #EXTINF:-1 tvg-name="12/09 21:00 | Afc Bournemouth vs Brentford | NEMO | HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9dn1m1ghdlpmoep/image/small" group-title="Xoilac",12/09 21:00 | Afc Bournemouth vs Brentford | NEMO | HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001789176569-0-0-7b154e459883a87b1169a46041e89704
+https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001789180336-0-0-4d98c48aba8fd0d03d10d5abf68509be
 
 #EXTINF:-1 tvg-name="12/09 21:00 | Aston Villa vs Nottingham Forest | BRADY | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnh06om7vx/image/small" group-title="Xoilac",12/09 21:00 | Aston Villa vs Nottingham Forest | BRADY | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001789176581-0-0-043afb7d2e92355b6418ac9643e53f42
+https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001789180340-0-0-f8911b4062614ac852874815353c9f7a
 
 #EXTINF:-1 tvg-name="12/09 21:00 | Aston Villa vs Nottingham Forest | ZANE | HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnh06om7vx/image/small" group-title="Xoilac",12/09 21:00 | Aston Villa vs Nottingham Forest | ZANE | HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001789176576-0-0-bf9a8d08b3386927873aac52e43206a2
+https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001789180338-0-0-703404d9a2a88ef087aeaaa09171fdd1
 
 #EXTINF:-1 tvg-name="12/09 21:00 | Chelsea vs Hull City | KEN | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="Xoilac",12/09 21:00 | Chelsea vs Hull City | KEN | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -2591,112 +2485,256 @@ https://live2.felnorastreamvault.com/live/channel18.flv
 #EXTINF:-1 tvg-name="12/09 21:00 | Chelsea vs Hull City | NICK | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="Xoilac",12/09 21:00 | Chelsea vs Hull City | NICK | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001789176572-0-0-002fe4a22bd497e65fc41158531059cc
+https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001789180337-0-0-e1961ef40247133e38b71e8d8e502db4
 
 #EXTINF:-1 tvg-name="12/09 21:00 | Chelsea vs Hull City | RIO | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpdxm7vx/image/small" group-title="Xoilac",12/09 21:00 | Chelsea vs Hull City | RIO | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001789176576-0-0-d7684f6f53b4cdc955d5bc636dd89015
+https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001789180338-0-0-c1ac1d8d48eb5580353143df3d2700ce
 
 #EXTINF:-1 tvg-name="12/09 21:00 | Crystal Palace vs Ipswich Town | BEE | HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vl7oqdehzkpr510/image/small" group-title="Xoilac",12/09 21:00 | Crystal Palace vs Ipswich Town | BEE | HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001789176570-0-0-b4d9a18a2964a64b9d5ec3ffb859bd40
+https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001789180336-0-0-7363b9c36627720a230c624e25f67c6e
 
 #EXTINF:-1 tvg-name="12/09 21:00 | Crystal Palace vs Ipswich Town | FILIP | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vl7oqdehzkpr510/image/small" group-title="Xoilac",12/09 21:00 | Crystal Palace vs Ipswich Town | FILIP | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001789176574-0-0-fd2c284e8e098e821a32968e82a6d417
+https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001789180337-0-0-8364debda68852cb57d2d2c56dc93e1e
 
 #EXTINF:-1 tvg-name="12/09 21:00 | Liverpool vs Fulham | FELIX | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlhw8gryk0/image/small" group-title="Xoilac",12/09 21:00 | Liverpool vs Fulham | FELIX | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel24.flv?wsSecret=2721f8fcaafaa0a82ea8edeb14c8ea77&wsABSTime=1789219788
+https://live1.quickscoreboardz.com/live/channel24.flv?wsSecret=c8fd072fb147e1ff3682af1ac84a1050&wsABSTime=1789223542
 
 #EXTINF:-1 tvg-name="12/09 21:00 | Liverpool vs Fulham | MAX | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlhw8gryk0/image/small" group-title="Xoilac",12/09 21:00 | Liverpool vs Fulham | MAX | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001789176574-0-0-9f0e808fbd28a046f27a442670df1962
+https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001789180337-0-0-67873bab6bb17b097217cff0ec049927
 
 #EXTINF:-1 tvg-name="12/09 21:00 | Liverpool vs Fulham | ROY | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlhw8gryk0/image/small" group-title="Xoilac",12/09 21:00 | Liverpool vs Fulham | ROY | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001789176572-0-0-98fc10fc2b7792e8c8bf738d2c2b2771
+https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001789180337-0-0-ef27ffbaed23ec164abd12444fbfa55d
 
 #EXTINF:-1 tvg-name="12/09 21:00 | Swansea City vs Burnley | ALAN | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7ph6jzm2wd/image/small" group-title="Xoilac",12/09 21:00 | Swansea City vs Burnley | ALAN | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-25.flv?auth_key=3000001789176590-0-0-818294b9f52e73c612e99d27712ffe35
+https://live2.domaincdn.cc/livecdn/channel-25.flv?auth_key=3000001789180343-0-0-8be7c14806f3daa0f49790b30d5d5aed
 
 #EXTINF:-1 tvg-name="12/09 21:15 | Osasuna vs Espanyol | TOM | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vl7oqdehkx5r510/image/small" group-title="Xoilac",12/09 21:15 | Osasuna vs Espanyol | TOM | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001789176576-0-0-76a2812fd02c7272492e8af7b3f80897
+https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001789180338-0-0-c2ab1a2b4be60573fd9a8e0eca814158
 
 #EXTINF:-1 tvg-name="12/09 21:30 | Twente Fc vs Ado Den Haag | OLER | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpjvm7vx/image/small" group-title="Xoilac",12/09 21:30 | Twente Fc vs Ado Den Haag | OLER | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001789176568-0-0-a0cda5eeb112fd3eb8a33bafb52b3c4f
+https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001789180335-0-0-4b910ef6144ebadbc79039538b6c23b9
 
 #EXTINF:-1 tvg-name="12/09 22:15 | Strasbourg vs As Monaco | XMEN | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhd66ql07/image/small" group-title="Xoilac",12/09 22:15 | Strasbourg vs As Monaco | XMEN | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001789176567-0-0-51479d563638c67262406db83eea3852
+https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001789180336-0-0-a1a13c8e9d784f35db95fa2b7a3b8cee
 
 #EXTINF:-1 tvg-name="12/09 22:30 | Dynamo Moscow vs Fc Orenburg | SILVA | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vl7oqdehk89r510/image/small" group-title="Xoilac",12/09 22:30 | Dynamo Moscow vs Fc Orenburg | SILVA | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-20.flv?auth_key=3000001789176579-0-0-ebf248ffa933c5c9c9c839adb71160de
+https://live2.domaincdn.cc/livecdn/channel-20.flv?auth_key=3000001789180340-0-0-f1c301caadc9744ee25f59782478687b
 
 #EXTINF:-1 tvg-name="12/09 23:00 | Ac Oulu vs Gnistan Helsinki | JOHAN | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8yomo4h7kplq0j6/image/small" group-title="Xoilac",12/09 23:00 | Ac Oulu vs Gnistan Helsinki | JOHAN | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001789176579-0-0-c59754ca6045bc6bc56dd33334c06716
+https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001789180340-0-0-0d0aa20ad962eac937bcc2c205e61e28
 
 #EXTINF:-1 tvg-name="12/09 23:00 | Lazio vs Ac Milan | HIRO | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hg44mojx/image/small" group-title="Xoilac",12/09 23:00 | Lazio vs Ac Milan | HIRO | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001789176568-0-0-50115a39020df4e822dc7c89448320ea
+https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001789180335-0-0-53a8caba841a644b98fea3eccef8ed1c
 
 #EXTINF:-1 tvg-name="12/09 23:00 | Thun vs Grasshopper | JEAN | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlhoekryk0/image/small" group-title="Xoilac",12/09 23:00 | Thun vs Grasshopper | JEAN | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001789176568-0-0-767d6566351171d514380c3e6c829f88
+https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001789180339-0-0-e5701613f9f899316847b7ca4cf68281
 
 #EXTINF:-1 tvg-name="12/09 23:30 | Athletic Bilbao vs Elche Cf | BRADY | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhd6yqwzv/image/small" group-title="Xoilac",12/09 23:30 | Athletic Bilbao vs Elche Cf | BRADY | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001789176581-0-0-043afb7d2e92355b6418ac9643e53f42
+https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001789180340-0-0-f8911b4062614ac852874815353c9f7a
 
 #EXTINF:-1 tvg-name="12/09 23:30 | Fc Koln vs Werder Bremen | MAX | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/yl5ergphj74r8k0/image/small" group-title="Xoilac",12/09 23:30 | Fc Koln vs Werder Bremen | MAX | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001789176574-0-0-9f0e808fbd28a046f27a442670df1962
+https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001789180337-0-0-67873bab6bb17b097217cff0ec049927
 
 #EXTINF:-1 tvg-name="12/09 23:30 | Tottenham vs Everton | ASTRA | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l965mkyh90gr1ge/image/small" group-title="Xoilac",12/09 23:30 | Tottenham vs Everton | ASTRA | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001789176583-0-0-8b64175a06868a55d7bdc1d946a3ed6f
+https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001789180341-0-0-33fe3493c8eb4843a0e306d1d7805033
 
 #EXTINF:-1 tvg-name="12/09 23:30 | Tottenham vs Everton | FILIP | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l965mkyh90gr1ge/image/small" group-title="Xoilac",12/09 23:30 | Tottenham vs Everton | FILIP | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001789176574-0-0-fd2c284e8e098e821a32968e82a6d417
+https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001789180337-0-0-8364debda68852cb57d2d2c56dc93e1e
 
 #EXTINF:-1 tvg-name="12/09 23:30 | Tottenham vs Everton | ROY | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l965mkyh90gr1ge/image/small" group-title="Xoilac",12/09 23:30 | Tottenham vs Everton | ROY | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001789176572-0-0-98fc10fc2b7792e8c8bf738d2c2b2771
+https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001789180337-0-0-ef27ffbaed23ec164abd12444fbfa55d
 
 #EXTINF:-1 tvg-name="12/09 23:45 | Go Ahead Eagles vs Groningen | RAVEN | FULL HD" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nho5nmd7o/image/small" group-title="Xoilac",12/09 23:45 | Go Ahead Eagles vs Groningen | RAVEN | FULL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001789176569-0-0-c6b36c9cda92838108b2ad1e4942dbc9
+https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001789180336-0-0-b89c2f0490f8d35d0937cfefbc87e374
 
-#EXTINF:-1 tvg-id="cctv-1549779-chuoichao-fhd" tvg-name="12/09 06:15 | Jaguares vs Fortaleza FC | Chuối Chao | FHD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133534_50dbb307.png" group-title="Chuối Chiên TV",12/09 06:15 | Jaguares vs Fortaleza FC | Chuối Chao | FHD
+#EXTINF:-1 tvg-id="cctv-999971-chuoikem-fhd" tvg-name="12/09 13:30 | Japan vs South Korea | Chuối Kem | FHD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" group-title="Chuối Chiên TV",12/09 13:30 | Japan vs South Korea | Chuối Kem | FHD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-999971-chuoikem-hd" tvg-name="12/09 13:30 | Japan vs South Korea | Chuối Kem | HD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" group-title="Chuối Chiên TV",12/09 13:30 | Japan vs South Korea | Chuối Kem | HD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-999003-chuoichao-fhd" tvg-name="12/09 15:15 | Hume City vs Avondale | Chuối Chao | FHD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141354_a613be1e.png" group-title="Chuối Chiên TV",12/09 15:15 | Hume City vs Avondale | Chuối Chao | FHD
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cctv-1549779-chuoichao-hd" tvg-name="12/09 06:15 | Jaguares vs Fortaleza FC | Chuối Chao | HD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133534_50dbb307.png" group-title="Chuối Chiên TV",12/09 06:15 | Jaguares vs Fortaleza FC | Chuối Chao | HD
+#EXTINF:-1 tvg-id="cctv-999003-chuoichao-hd" tvg-name="12/09 15:15 | Hume City vs Avondale | Chuối Chao | HD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141354_a613be1e.png" group-title="Chuối Chiên TV",12/09 15:15 | Hume City vs Avondale | Chuối Chao | HD
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-997412-chuoitay-fhd" tvg-name="12/09 17:30 | Iran vs Australia | Chuối Tây | FHD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134251_b96e660a.png" group-title="Chuối Chiên TV",12/09 17:30 | Iran vs Australia | Chuối Tây | FHD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-997412-chuoitay-hd" tvg-name="12/09 17:30 | Iran vs Australia | Chuối Tây | HD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134251_b96e660a.png" group-title="Chuối Chiên TV",12/09 17:30 | Iran vs Australia | Chuối Tây | HD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-998767-chuoikem-fhd" tvg-name="12/09 19:00 | Denmark vs Netherlands | Chuối Kem | FHD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125453_4487c0dd.png" group-title="Chuối Chiên TV",12/09 19:00 | Denmark vs Netherlands | Chuối Kem | FHD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-998767-chuoikem-hd" tvg-name="12/09 19:00 | Denmark vs Netherlands | Chuối Kem | HD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125453_4487c0dd.png" group-title="Chuối Chiên TV",12/09 19:00 | Denmark vs Netherlands | Chuối Kem | HD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-1633897-chuoichao-fhd" tvg-name="12/09 19:15 | Ha Noi vs Song Lam Nghe An | Chuối Chao | FHD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132402_bfc7ab48.png" group-title="Chuối Chiên TV",12/09 19:15 | Ha Noi vs Song Lam Nghe An | Chuối Chao | FHD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-1633897-chuoichao-hd" tvg-name="12/09 19:15 | Ha Noi vs Song Lam Nghe An | Chuối Chao | HD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132402_bfc7ab48.png" group-title="Chuối Chiên TV",12/09 19:15 | Ha Noi vs Song Lam Nghe An | Chuối Chao | HD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-995632-chuoitay-fhd" tvg-name="12/09 20:00 | Poland vs Israel | Chuối Tây | FHD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125454_fc9cbefe.png" group-title="Chuối Chiên TV",12/09 20:00 | Poland vs Israel | Chuối Tây | FHD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-995632-chuoitay-hd" tvg-name="12/09 20:00 | Poland vs Israel | Chuối Tây | HD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125454_fc9cbefe.png" group-title="Chuối Chiên TV",12/09 20:00 | Poland vs Israel | Chuối Tây | HD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-1557397-chuoito-fhd" tvg-name="12/09 21:00 | Aston Villa vs Nottingham Forest | Chuối To | FHD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125552_15f20ce5.png" group-title="Chuối Chiên TV",12/09 21:00 | Aston Villa vs Nottingham Forest | Chuối To | FHD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-1557397-chuoito-hd" tvg-name="12/09 21:00 | Aston Villa vs Nottingham Forest | Chuối To | HD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125552_15f20ce5.png" group-title="Chuối Chiên TV",12/09 21:00 | Aston Villa vs Nottingham Forest | Chuối To | HD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-1557399-chuoila-fhd" tvg-name="12/09 21:00 | Chelsea vs Hull City | Chuối Lá | FHD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125549_a4353df0.png" group-title="Chuối Chiên TV",12/09 21:00 | Chelsea vs Hull City | Chuối Lá | FHD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-1557399-chuoila-hd" tvg-name="12/09 21:00 | Chelsea vs Hull City | Chuối Lá | HD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125549_a4353df0.png" group-title="Chuối Chiên TV",12/09 21:00 | Chelsea vs Hull City | Chuối Lá | HD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-1557403-chuoinho-fhd" tvg-name="12/09 21:00 | Liverpool vs Fulham | Chuối Nhỏ | FHD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125546_c0f632e4.png" group-title="Chuối Chiên TV",12/09 21:00 | Liverpool vs Fulham | Chuối Nhỏ | FHD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-1557403-chuoinho-hd" tvg-name="12/09 21:00 | Liverpool vs Fulham | Chuối Nhỏ | HD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125546_c0f632e4.png" group-title="Chuối Chiên TV",12/09 21:00 | Liverpool vs Fulham | Chuối Nhỏ | HD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-996989-chuoikem-fhd" tvg-name="12/09 23:00 | Bulgaria vs Ukraine | Chuối Kem | FHD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134258_abb0ed43.png" group-title="Chuối Chiên TV",12/09 23:00 | Bulgaria vs Ukraine | Chuối Kem | FHD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-996989-chuoikem-hd" tvg-name="12/09 23:00 | Bulgaria vs Ukraine | Chuối Kem | HD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134258_abb0ed43.png" group-title="Chuối Chiên TV",12/09 23:00 | Bulgaria vs Ukraine | Chuối Kem | HD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-1570373-chuoito-fhd" tvg-name="12/09 23:30 | Athletic Club vs Elche | Chuối To | FHD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125622_e607f942.png" group-title="Chuối Chiên TV",12/09 23:30 | Athletic Club vs Elche | Chuối To | FHD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-1570373-chuoito-hd" tvg-name="12/09 23:30 | Athletic Club vs Elche | Chuối To | HD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125622_e607f942.png" group-title="Chuối Chiên TV",12/09 23:30 | Athletic Club vs Elche | Chuối To | HD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-1557406-angao-fhd" tvg-name="12/09 23:30 | Tottenham vs Everton | A Ngao | FHD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125548_a24442be.png" group-title="Chuối Chiên TV",12/09 23:30 | Tottenham vs Everton | A Ngao | FHD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-1557406-angao-hd" tvg-name="12/09 23:30 | Tottenham vs Everton | A Ngao | HD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125548_a24442be.png" group-title="Chuối Chiên TV",12/09 23:30 | Tottenham vs Everton | A Ngao | HD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-1603029-chuoila-fhd" tvg-name="13/09 01:00 | Al Khaleej Saihat vs Al-Nassr | Chuối Lá | FHD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134001_23e85ea3.png" group-title="Chuối Chiên TV",13/09 01:00 | Al Khaleej Saihat vs Al-Nassr | Chuối Lá | FHD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-1603029-chuoila-hd" tvg-name="13/09 01:00 | Al Khaleej Saihat vs Al-Nassr | Chuối Lá | HD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134001_23e85ea3.png" group-title="Chuối Chiên TV",13/09 01:00 | Al Khaleej Saihat vs Al-Nassr | Chuối Lá | HD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-1570379-angao-fhd" tvg-name="13/09 02:00 | Real Madrid vs Rayo Vallecano | A Ngao | FHD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125625_9a1b10da.png" group-title="Chuối Chiên TV",13/09 02:00 | Real Madrid vs Rayo Vallecano | A Ngao | FHD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-1570379-angao-hd" tvg-name="13/09 02:00 | Real Madrid vs Rayo Vallecano | A Ngao | HD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125625_9a1b10da.png" group-title="Chuối Chiên TV",13/09 02:00 | Real Madrid vs Rayo Vallecano | A Ngao | HD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-1557405-chuoinho-fhd" tvg-name="13/09 02:00 | Sunderland vs Arsenal | Chuối Nhỏ | FHD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130856_4ebea02c.png" group-title="Chuối Chiên TV",13/09 02:00 | Sunderland vs Arsenal | Chuối Nhỏ | FHD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-1557405-chuoinho-hd" tvg-name="13/09 02:00 | Sunderland vs Arsenal | Chuối Nhỏ | HD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130856_4ebea02c.png" group-title="Chuối Chiên TV",13/09 02:00 | Sunderland vs Arsenal | Chuối Nhỏ | HD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-1492378-chuoinho-fhd" tvg-name="13/09 04:30 | Palmeiras vs Sao Paulo | Chuối Nhỏ | FHD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_9879fc79.png" group-title="Chuối Chiên TV",13/09 04:30 | Palmeiras vs Sao Paulo | Chuối Nhỏ | FHD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-1492378-chuoinho-hd" tvg-name="13/09 04:30 | Palmeiras vs Sao Paulo | Chuối Nhỏ | HD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_9879fc79.png" group-title="Chuối Chiên TV",13/09 04:30 | Palmeiras vs Sao Paulo | Chuối Nhỏ | HD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-1490466-chuoichao-fhd" tvg-name="13/09 06:30 | Inter Miami vs Nashville SC | Chuối Chao | FHD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png" group-title="Chuối Chiên TV",13/09 06:30 | Inter Miami vs Nashville SC | Chuối Chao | FHD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-1490466-chuoichao-hd" tvg-name="13/09 06:30 | Inter Miami vs Nashville SC | Chuối Chao | HD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png" group-title="Chuối Chiên TV",13/09 06:30 | Inter Miami vs Nashville SC | Chuối Chao | HD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-1490474-chuoitay-fhd" tvg-name="13/09 08:30 | Real Salt Lake vs New York City FC | Chuối Tây | FHD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131605_f3bec167.png" group-title="Chuối Chiên TV",13/09 08:30 | Real Salt Lake vs New York City FC | Chuối Tây | FHD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-1490474-chuoitay-hd" tvg-name="13/09 08:30 | Real Salt Lake vs New York City FC | Chuối Tây | HD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131605_f3bec167.png" group-title="Chuối Chiên TV",13/09 08:30 | Real Salt Lake vs New York City FC | Chuối Tây | HD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-1557404-angao-fhd" tvg-name="13/09 22:30 | Manchester United vs Manchester City | A Ngao | FHD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125544_6dff7e1a.png" group-title="Chuối Chiên TV",13/09 22:30 | Manchester United vs Manchester City | A Ngao | FHD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-1557404-angao-hd" tvg-name="13/09 22:30 | Manchester United vs Manchester City | A Ngao | HD" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125544_6dff7e1a.png" group-title="Chuối Chiên TV",13/09 22:30 | Manchester United vs Manchester City | A Ngao | HD
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
